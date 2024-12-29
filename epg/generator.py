@@ -40,11 +40,11 @@ OTT_PLAY_IDS = ""
 #Ano = 1
 #Ne = 0
 ftp_upload = 0
-ftp_server = "ftp4.webzdarma.cz"
+ftp_server = 
 ftp_port = 21
-ftp_login = "jurooo.wz.cz"
-ftp_password = "Westeros123"
-ftp_folder = "/Xb"
+ftp_login = "
+ftp_password = 
+ftp_folder = 
 
 #Auto aktualizace
 #Ano = 1
