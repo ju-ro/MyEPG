@@ -40,11 +40,11 @@ OTT_PLAY_IDS = ""
 #Ano = 1
 #Ne = 0
 ftp_upload = 0
-ftp_server =
+ftp_server = ""
 ftp_port = 21
-ftp_login =
-ftp_password =
-ftp_folder =
+ftp_login = ""
+ftp_password = ""
+ftp_folder = ""
 
 #Auto aktualizace
 #Ano = 1
