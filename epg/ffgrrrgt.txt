@@ -1,4 +1,4 @@
-#!/bin/bash  //// zmeny z github
+#!/bin/bash  //// zmeny z local na github
 
 # Nastav premenné
 GITHUB_TOKEN=""
@@ -11,7 +11,7 @@ COMMIT_MESSAGE="Aktualizácia priečinka epg z lokálneho repozitára"
 git config --global user.name "ju-ro"
 git config --global user.email "juro86@gmail.com"
 
-# Prejdi do koreňového adresára lokálneho repozitára
+# Prejdi do koreňového adresára lokálneho repozitára 
 cd "$(dirname "$DIR_PATH")" || { echo "Chyba: Cesta k repozitáru nie je správna."; exit 1; }
 
 # Skontroluj, či priečinok "epg" existuje
