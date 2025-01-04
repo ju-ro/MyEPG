@@ -1,0 +1,16 @@
+0,30 * * * * /usr/bin/python2.7 /home/juraj.soviar/Documents/TV/service.playlist.orangetv/playlist.py
+5,35 * * * * /usr/bin/python2.7 /home/juraj.soviar/Documents/TV/zubo.orangetv/playlist.py
+*/5 * * * * bash /home/juraj.soviar/Documents/TV/service.playlist.orangetv/uploader01.sh
+*/5 * * * * bash /home/juraj.soviar/Documents/TV/service.playlist.orangetv/uploader03.sh
+* */6 * * * bash /home/juraj.soviar/Documents/TV/service.playlist.orangetv/download-generator.sh
+10 */6 * * * /usr/bin/python3 /home/juraj.soviar/Documents/TV/365epg/generator.py
+*/5 * * * * bash /home/juraj.soviar/Documents/TV/service.playlist.orangetv/uploader01-endora.sh
+*/5 * * * * bash /home/juraj.soviar/Documents/TV/service.playlist.orangetv/uploader03-endora.sh
+* */6 * * * bash /home/juraj.soviar/Documents/TV/service.playlist.orangetv/download-generator-endora.sh
+10 */6 * * * /usr/bin/python3 /home/juraj.soviar/Documents/TV/365epg-endora/generator.py
+
+2,32 * * * * /usr/bin/python3 /home/juraj.soviar/Documents/Github/tv_scripts/sync/juraj-orangetv-playlist/playlist.py
+7,37 * * * * /usr/bin/python3 /home/juraj.soviar/Documents/Github/tv_scripts/sync/zubo-orangetv-playlist/playlist.py
+15 * * * * /home/juraj.soviar/Documents/Github/tv_scripts/sync/365epg/generator.py
+*/10 * * * * bash /home/juraj.soviar/Documents/Github/tv_scripts/bash-scripts/upload_all.sh
+*/5 * * * * bash /home/juraj.soviar/Documents/Github/tv_scripts/bash-scripts/download_all.sh
