@@ -1,0 +1,38 @@
+#!/bin/bash  //// zmeny z github
+
+# Nastav premenné
+GITHUB_TOKEN=""
+REPO_NAME="MyEPG"
+DIR_PATH="C:/Users/admin/Documents/MyGitHUB/MyEPG/epg"  # Cesta k priečinku "epg"
+BRANCH_NAME="main"
+COMMIT_MESSAGE="Aktualizácia priečinka epg z lokálneho repozitára"
+
+# Prihlásenie na GitHub
+git config --global user.name "ju-ro"
+git config --global user.email "juro86@gmail.com"
+
+# Prejdi do koreňového adresára lokálneho repozitára
+cd "$(dirname "$DIR_PATH")" || { echo "Chyba: Cesta k repozitáru nie je správna."; exit 1; }
+
+# Skontroluj, či priečinok "epg" existuje
+if [ ! -d "epg" ]; then
+    echo "Priečinok 'epg' neexistuje. Skontrolujte nastavenia."
+    exit 1
+fi
+
+# Pridaj len zmeny z priečinka 'epg'
+echo "Pridávam zmeny len z priečinka 'epg'."
+git add epg/
+
+# Skontroluj, či sú zmeny v priečinku 'epg'
+if git diff --cached --quiet; then
+    echo "Žiadne zmeny na commit v priečinku 'epg'."
+else
+    # Commitni len zmeny v priečinku 'epg'
+    git commit -m "$COMMIT_MESSAGE"
+
+    # Vynúť push lokálnych zmien na GitHub (len z priečinka `epg`)
+    git push --force https://"$GITHUB_TOKEN"@github.com/ju-ro/"$REPO_NAME".git "$BRANCH_NAME"
+
+    echo "Priečinok epg bol úspešne synchronizovaný z lokálneho repozitára na GitHub."
+fi
