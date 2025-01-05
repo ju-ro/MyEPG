@@ -11,6 +11,6 @@
 
 2,32 * * * * /usr/bin/python3 /home/juraj.soviar/Documents/Github/tv_scripts/sync/juraj-orangetv-playlist/playlist.py
 7,37 * * * * /usr/bin/python3 /home/juraj.soviar/Documents/Github/tv_scripts/sync/zubo-orangetv-playlist/playlist.py
-15 * * * * /home/juraj.soviar/Documents/Github/tv_scripts/sync/365epg/generator.py
+15 * * * * /usr/bin/python3 /home/juraj.soviar/Documents/Github/tv_scripts/sync/365epg/generator.py
 */10 * * * * bash /home/juraj.soviar/Documents/Github/tv_scripts/bash-scripts/upload_all.sh
 */5 * * * * bash /home/juraj.soviar/Documents/Github/tv_scripts/bash-scripts/download_all.sh
