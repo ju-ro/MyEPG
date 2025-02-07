@@ -13718,14 +13718,14 @@ Sommer explores the bustling city of Ahmedabad and later visits the contrastingl
     <title>Zprávy</title>
     <desc>Zpravodajská relace</desc>
   </programme>
-  <programme start="20250207020000 +0100" channel="1522-premier-sport-2" stop="20250207033000 +0100">
-    <title>ATP500: Dallas Open</title>
-    <desc>ATP500 - Přímý přenos 2. kola tenisového turnaje okruhu ATP Tour (Dallas, USA)</desc>
-  </programme>
   <programme start="20250207020000 +0100" channel="1012-mnam-tv" stop="20250207033000 +0100">
     <title>Čas na Te. Be. (65)</title>
     <desc>Borůvkové muffiny s bílou čokoládou
 Tereza Bebarová nás zve k sobě domů, kam také pozvala mistra sladkých jídel Pepu Maršálka. Pozvání k rozhovoru</desc>
+  </programme>
+  <programme start="20250207020000 +0100" channel="1522-premier-sport-2" stop="20250207033000 +0100">
+    <title>ATP500: Dallas Open</title>
+    <desc>ATP500 - Přímý přenos 2. kola tenisového turnaje okruhu ATP Tour (Dallas, USA)</desc>
   </programme>
   <programme start="20250207020000 +0100" channel="190-bbc-world-news" stop="20250207023000 +0100">
     <title>BBC News</title>
@@ -13736,14 +13736,14 @@ Tereza Bebarová nás zve k sobě domů, kam také pozvala mistra sladkých jíd
     <desc>80% Mezi dvěma sopkami
 Havajská rodina se snaží udržet usedlost mezi dvěma aktivními sopkami. Raneyovi postaví opevněnou zahradu a posed</desc>
   </programme>
+  <programme start="20250207020500 +0100" channel="15290-nova-lady" stop="20250207034300 +0100">
+    <title>Pobřežní hlídka III (14, 15)</title>
+    <desc>55% Slavný americký seriál (1989)</desc>
+  </programme>
   <programme start="20250207020500 +0100" channel="15291-joj-sport" stop="20250207043500 +0100">
     <title>Basketbal - ENBL</title>
     <desc>Spišskí Rytieri - Spartak Pleven
 Záznam basketbalového zápasu ENBL</desc>
-  </programme>
-  <programme start="20250207020500 +0100" channel="15290-nova-lady" stop="20250207034300 +0100">
-    <title>Pobřežní hlídka III (14, 15)</title>
-    <desc>55% Slavný americký seriál (1989)</desc>
   </programme>
   <programme start="20250207020500 +0100" channel="1324-rtvs-24" stop="20250207023000 +0100">
     <title>Správy :24</title>
@@ -13890,14 +13890,14 @@ Charlie a tým FBI vyšetřuje vraždu v kasinu</desc>
     <title>Krok za krokem VII (7)</title>
     <desc>67% Americký seriál (1997)</desc>
   </programme>
+  <programme start="20250207022500 +0100" channel="15568-markiza-klasik" stop="20250207042000 +0100">
+    <title>Sedem s r.o.</title>
+    <desc />
+  </programme>
   <programme start="20250207022500 +0100" channel="16-3sat" stop="20250207032000 +0100">
     <title>Winterwunderland Schweiz per Bahn (2/4)</title>
     <desc>"Arosa-Bahn" - Die Wandelbare
 Seit 110 Jahren zuckelt die Arosabahn mit durchschnittlich 30 Stundenkilometern von Chur, der Kantonshauptstadt Graubündens</desc>
-  </programme>
-  <programme start="20250207022500 +0100" channel="15568-markiza-klasik" stop="20250207042000 +0100">
-    <title>Sedem s r.o.</title>
-    <desc />
   </programme>
   <programme start="20250207022500 +0100" channel="20-orf2" stop="20250207025500 +0100">
     <title>Eco</title>
@@ -13908,14 +13908,6 @@ Seit 110 Jahren zuckelt die Arosabahn mit durchschnittlich 30 Stundenkilometern 
     <desc>Amazonie
 USA 2007 Navštivte s námi amazonské džungle, kde můžete spatřit smrtelně nebezpečná stvoření, která ve vlhkých pralesích bojují o přežití</desc>
   </programme>
-  <programme start="20250207023000 +0100" channel="220-prima-cool" stop="20250207033000 +0100">
-    <title>Angel III (13)</title>
-    <desc>80% Americký akční fantastický seriál (1999 - 2004)</desc>
-  </programme>
-  <programme start="20250207023000 +0100" channel="1513-prima-star" stop="20250207034500 +0100">
-    <title>Dvojí tvář lásky (3)</title>
-    <desc>Turecký seriál (2023-2024)</desc>
-  </programme>
   <programme start="20250207023000 +0100" channel="132-nova-cinema" stop="20250207043000 +0100">
     <title>Nezvratný osud</title>
     <desc>67% Devon Sawa má předtuchu, že letadlo, kterým má za okamžik letět se svou třídou na výlet do Paříže, těsně po startu havaruje! Stroj skutečně exploduje Americko-kanadský thriller (2000). Hrají: A. Larter, K. Smith, T. Todd. Režie: J. Wong</desc>
@@ -13924,60 +13916,68 @@ USA 2007 Navštivte s námi amazonské džungle, kde můžete spatřit smrtelně
     <title>Lední hokej</title>
     <desc>Národní liga, základní část Lugano - ZSC Lions</desc>
   </programme>
-  <programme start="20250207023000 +0100" channel="1338-cnn-prima-news" stop="20250207023500 +0100">
-    <title>Lékaři v éteru</title>
-    <desc>Petra Křížová</desc>
-  </programme>
-  <programme start="20250207023000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207030000 +0100">
-    <title>Zorafit- Ako cvičiť doma</title>
-    <desc>AKD Chrbát, Ramená, Zadok, Stehná (Odstránenie bolesti chrbta)</desc>
-  </programme>
-  <programme start="20250207023000 +0100" channel="717-cs-mystery" stop="20250207031000 +0100">
-    <title>Strašidelná setkání (2)</title>
-    <desc>Britský dokumentární seriál (2018)</desc>
-  </programme>
-  <programme start="20250207023000 +0100" channel="244-canal-24-horas" stop="20250207030000 +0100">
-    <title>Telediario Internacional</title>
-    <desc />
-  </programme>
   <programme start="20250207023000 +0100" channel="190-bbc-world-news" stop="20250207024500 +0100">
     <title>Business Today</title>
     <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world</desc>
-  </programme>
-  <programme start="20250207023000 +0100" channel="1187-cs-history" stop="20250207025500 +0100">
-    <title>Zlomových 100 let lidstva (1/10)</title>
-    <desc>Proč se obtěžovat
-Britský dokumentární seriál (2020)</desc>
-  </programme>
-  <programme start="20250207023000 +0100" channel="15508-tv-doktor" stop="20250207030000 +0100">
-    <title>Nezávislosť</title>
-    <desc />
-  </programme>
-  <programme start="20250207023000 +0100" channel="1199-travelxp-hd" stop="20250207030000 +0100">
-    <title>Viajar Peru (7)</title>
-    <desc>Amazonas 2, Peru
-As Milagros delves deeper into the heart of the Amazonas, her journey takes a thrilling turn</desc>
   </programme>
   <programme start="20250207023000 +0100" channel="145-france24-en" stop="20250207024500 +0100">
     <title>BULLETIN</title>
     <desc />
   </programme>
-  <programme start="20250207023000 +0100" channel="15562-prima-cool-sk" stop="20250207030500 +0100">
-    <title>Fotr na tripu V</title>
-    <desc>Stredomorské ostrovy tak, ako ich nepoznáte, v podaní neortodoxného a skúseného cestovateľa Pepu Vrtala a jeho dcér Leontýnky a Josefínky v ďalšej sérii Fotra na tripu!</desc>
-  </programme>
   <programme start="20250207023000 +0100" channel="207-the-fishing-and-hunting" stop="20250207030000 +0100">
     <title>Myslivecká horečka - Maďarský lov s lukem slaví 30 let (2)</title>
     <desc>Lesy bohaté na zvěř a na diváka čekají nová lovecká dobrodružství</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="1338-cnn-prima-news" stop="20250207023500 +0100">
+    <title>Lékaři v éteru</title>
+    <desc>Petra Křížová</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="717-cs-mystery" stop="20250207031000 +0100">
+    <title>Strašidelná setkání (2)</title>
+    <desc>Britský dokumentární seriál (2018)</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="15508-tv-doktor" stop="20250207030000 +0100">
+    <title>Nezávislosť</title>
+    <desc />
+  </programme>
+  <programme start="20250207023000 +0100" channel="244-canal-24-horas" stop="20250207030000 +0100">
+    <title>Telediario Internacional</title>
+    <desc />
+  </programme>
+  <programme start="20250207023000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207030000 +0100">
+    <title>Zorafit- Ako cvičiť doma</title>
+    <desc>AKD Chrbát, Ramená, Zadok, Stehná (Odstránenie bolesti chrbta)</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="1513-prima-star" stop="20250207034500 +0100">
+    <title>Dvojí tvář lásky (3)</title>
+    <desc>Turecký seriál (2023-2024)</desc>
   </programme>
   <programme start="20250207023000 +0100" channel="191-lux" stop="20250207024500 +0100">
     <title>Tvorivo</title>
     <desc>Na sladko
 Máte radi sladké? V novej časti relácie Tvorivo vám ukážeme, že ručne ťahaná štrúdľa vôbec nie je taká náročná a upečieme si krásnu tortu aj z papiera</desc>
   </programme>
+  <programme start="20250207023000 +0100" channel="1187-cs-history" stop="20250207025500 +0100">
+    <title>Zlomových 100 let lidstva (1/10)</title>
+    <desc>Proč se obtěžovat
+Britský dokumentární seriál (2020)</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="15562-prima-cool-sk" stop="20250207030500 +0100">
+    <title>Fotr na tripu V</title>
+    <desc>Stredomorské ostrovy tak, ako ich nepoznáte, v podaní neortodoxného a skúseného cestovateľa Pepu Vrtala a jeho dcér Leontýnky a Josefínky v ďalšej sérii Fotra na tripu!</desc>
+  </programme>
   <programme start="20250207023000 +0100" channel="1324-rtvs-24" stop="20250207030000 +0100">
     <title>Ekonomika :24</title>
     <desc>Všetko dôležité z oblasti ekonomiky na jednom mieste. Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="220-prima-cool" stop="20250207033000 +0100">
+    <title>Angel III (13)</title>
+    <desc>80% Americký akční fantastický seriál (1999 - 2004)</desc>
+  </programme>
+  <programme start="20250207023000 +0100" channel="1199-travelxp-hd" stop="20250207030000 +0100">
+    <title>Viajar Peru (7)</title>
+    <desc>Amazonas 2, Peru
+As Milagros delves deeper into the heart of the Amazonas, her journey takes a thrilling turn</desc>
   </programme>
   <programme start="20250207023000 +0100" channel="15322-hgtv" stop="20250207030000 +0100">
     <title>Můj vysněný dům po výhře v loterii XI (9)</title>
@@ -13988,62 +13988,62 @@ Po výhře 250 000 dolarů se pár stěhuje zpět do Louisiany. Chtějí mít do
     <title>Události v regionech</title>
     <desc>Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne na jižní Moravě a ve Zlínském kraji</desc>
   </programme>
+  <programme start="20250207023500 +0100" channel="718-wau" stop="20250207031500 +0100">
+    <title>Myšlienky vraha IX (5)</title>
+    <desc>81% Americký krimiseriál (2013)</desc>
+  </programme>
   <programme start="20250207023500 +0100" channel="1125-nova-international" stop="20250207034000 +0100">
     <title>Snídaně</title>
     <desc>Ranní dávka zpravodajství, informací a zábavy</desc>
+  </programme>
+  <programme start="20250207023500 +0100" channel="1338-cnn-prima-news" stop="20250207025500 +0100">
+    <title>SHOWTIME</title>
+    <desc>Nový pořad zaměřený nejen na svět slavných, ale také technologické novinky a trendy témata, která zaujmou ženy i muže</desc>
   </programme>
   <programme start="20250207023500 +0100" channel="15292-prima-show" stop="20250207034000 +0100">
     <title>The Voice UK X (15)</title>
     <desc>56% Britská reality show (2021)</desc>
   </programme>
-  <programme start="20250207023500 +0100" channel="126-axn-white" stop="20250207040000 +0100">
-    <title>Velmi řecké vztahy IV (31)</title>
-    <desc>51% GR drama (2016)</desc>
-  </programme>
   <programme start="20250207023500 +0100" channel="999-jojko" stop="20250207024500 +0100">
     <title>Rapotáčik (2)</title>
     <desc>Slovenská náučno-zábavná relácia nakrútená pod odborným dohľadom logopéda (2017). (do 12 rokov)</desc>
   </programme>
-  <programme start="20250207023500 +0100" channel="718-wau" stop="20250207031500 +0100">
-    <title>Myšlienky vraha IX (5)</title>
-    <desc>81% Americký krimiseriál (2013)</desc>
+  <programme start="20250207023500 +0100" channel="126-axn-white" stop="20250207040000 +0100">
+    <title>Velmi řecké vztahy IV (31)</title>
+    <desc>51% GR drama (2016)</desc>
   </programme>
   <programme start="20250207023500 +0100" channel="202-history-channel" stop="20250207030000 +0100">
     <title>Mistři aukcí</title>
     <desc>Nic než síť
 Ton a Allen čelí dosud nejtěžší výzvě, když spojí své síly dva staří rivalové. Pánové najdou terénní motorku a pár sítě vystřelujících</desc>
   </programme>
-  <programme start="20250207023500 +0100" channel="1338-cnn-prima-news" stop="20250207025500 +0100">
-    <title>SHOWTIME</title>
-    <desc>Nový pořad zaměřený nejen na svět slavných, ale také technologické novinky a trendy témata, která zaujmou ženy i muže</desc>
+  <programme start="20250207024000 +0100" channel="15509-joj-svet" stop="20250207060000 +0100">
+    <title>História 360</title>
+    <desc>Česko-francúzsky dokumentárny seriál (2020)</desc>
   </programme>
-  <programme start="20250207024000 +0100" channel="55-axn" stop="20250207040000 +0100">
-    <title>Bosch VI (2)</title>
-    <desc>85% Americký krimi seriál (2020)</desc>
+  <programme start="20250207024000 +0100" channel="42-ta3" stop="20250207030000 +0100">
+    <title>Štúdio TA3</title>
+    <desc>Aktuálne informácie o téme, ktorá rezonuje v spoločnosti</desc>
   </programme>
   <programme start="20250207024000 +0100" channel="69-viasat-explore" stop="20250207032500 +0100">
     <title>Australští zlatokopové: Důl volá SOS I (6)</title>
     <desc>Tým Mine SOS má pouhých šest dní na to, aby spustil plnohodnotnou těžbu tvrdé horniny a zajistil nováčkům Nathanu Malatestovi a Stevu Ogilviemu výplatu</desc>
   </programme>
-  <programme start="20250207024000 +0100" channel="15509-joj-svet" stop="20250207060000 +0100">
-    <title>História 360</title>
-    <desc>Česko-francúzsky dokumentárny seriál (2020)</desc>
-  </programme>
-  <programme start="20250207024000 +0100" channel="206-joj-plus" stop="20250207041000 +0100">
-    <title>Tajný život v Zoo IV</title>
-    <desc>85% Autori dokumentárneho seriálu pomocou špeciálnych kamier neuveriteľne detailne zachytávajú správanie sa zvierat a prácu ošetrovateľov v najobľúbenejšej Britský dokumentárny seriál (2019)</desc>
+  <programme start="20250207024000 +0100" channel="55-axn" stop="20250207040000 +0100">
+    <title>Bosch VI (2)</title>
+    <desc>85% Americký krimi seriál (2020)</desc>
   </programme>
   <programme start="20250207024000 +0100" channel="15402-markiza-krimi" stop="20250207033000 +0100">
     <title>Detektív Dušo (8)</title>
     <desc>Kriminálny seriál SR (2017)</desc>
   </programme>
+  <programme start="20250207024000 +0100" channel="206-joj-plus" stop="20250207041000 +0100">
+    <title>Tajný život v Zoo IV</title>
+    <desc>85% Autori dokumentárneho seriálu pomocou špeciálnych kamier neuveriteľne detailne zachytávajú správanie sa zvierat a prácu ošetrovateľov v najobľúbenejšej Britský dokumentárny seriál (2019)</desc>
+  </programme>
   <programme start="20250207024000 +0100" channel="57-minimax" stop="20250207024500 +0100">
     <title>Byla jednou jedna… Věc I (51)</title>
     <desc>(2023)</desc>
-  </programme>
-  <programme start="20250207024000 +0100" channel="42-ta3" stop="20250207030000 +0100">
-    <title>Štúdio TA3</title>
-    <desc>Aktuálne informácie o téme, ktorá rezonuje v spoločnosti</desc>
   </programme>
   <programme start="20250207024000 +0100" channel="228-disney-channel" stop="20250207030000 +0100">
     <title>Anna mezi obojživelníky (14)</title>
@@ -14061,13 +14061,18 @@ Ton a Allen čelí dosud nejtěžší výzvě, když spojí své síly dva stař
     <title>Byla jednou jedna… Věc I (52)</title>
     <desc>(2023)</desc>
   </programme>
-  <programme start="20250207024500 +0100" channel="1512-rtvs-sport" stop="20250207030000 +0100">
-    <title>Góly - body - sekundy</title>
-    <desc>Športové spravodajstvo. Slovenská republika (2025)</desc>
-  </programme>
   <programme start="20250207024500 +0100" channel="999-jojko" stop="20250207025500 +0100">
     <title>Kúzlovanie (11)</title>
     <desc>Slovenská zábavná relácia (2015)</desc>
+  </programme>
+  <programme start="20250207024500 +0100" channel="1408-rik-tv" stop="20250207031000 +0100">
+    <title>Myšiak Anatole I (8)</title>
+    <desc>Príbeh mladého myšiaka Anatola, ktorý žije v Paríži. Pracuje ako nočný strážnik vo fabrike na syr. Má manželku menom Doucette a ich rodinku dopĺňa šesť malých myší</desc>
+  </programme>
+  <programme start="20250207024500 +0100" channel="191-lux" stop="20250207030000 +0100">
+    <title>Malá cesta</title>
+    <desc>Obnova v Duchu Svätom
+V dnešnej epizóde "Malej Cesty" sa stretneme s kňazom Tomášom Kramplom, ktorý po dlhom období duchovnej suchoty dostal dar hlbšie</desc>
   </programme>
   <programme start="20250207024500 +0100" channel="145-france24-en" stop="20250207030000 +0100">
     <title>EYE ON AFRICA</title>
@@ -14077,36 +14082,18 @@ Ton a Allen čelí dosud nejtěžší výzvě, když spojí své síly dva stař
     <title>Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism</desc>
   </programme>
-  <programme start="20250207024500 +0100" channel="191-lux" stop="20250207030000 +0100">
-    <title>Malá cesta</title>
-    <desc>Obnova v Duchu Svätom
-V dnešnej epizóde "Malej Cesty" sa stretneme s kňazom Tomášom Kramplom, ktorý po dlhom období duchovnej suchoty dostal dar hlbšie</desc>
-  </programme>
-  <programme start="20250207024500 +0100" channel="1408-rik-tv" stop="20250207031000 +0100">
-    <title>Myšiak Anatole I (8)</title>
-    <desc>Príbeh mladého myšiaka Anatola, ktorý žije v Paríži. Pracuje ako nočný strážnik vo fabrike na syr. Má manželku menom Doucette a ich rodinku dopĺňa šesť malých myší</desc>
-  </programme>
-  <programme start="20250207025000 +0100" channel="15611-joj-sport-2" stop="20250207044000 +0100">
-    <title>Basketbal - Tipos SBL</title>
-    <desc>BC Komárno - Patrioti Levice
-Záznam basketbalového zápasu slovenskej basketbalovej ligy</desc>
+  <programme start="20250207024500 +0100" channel="1512-rtvs-sport" stop="20250207030000 +0100">
+    <title>Góly - body - sekundy</title>
+    <desc>Športové spravodajstvo. Slovenská republika (2025)</desc>
   </programme>
   <programme start="20250207025000 +0100" channel="215-barrandov" stop="20250207043000 +0100">
     <title>Ostříháno</title>
     <desc>Čtyři kadeřníci v soutěži na ostří nůžek</desc>
   </programme>
-  <programme start="20250207025000 +0100" channel="1141-joj-family" stop="20250207032500 +0100">
-    <title>Noviny</title>
-    <desc>Profesionální, nestranné a srozumitelné zpravodajství každý večer</desc>
-  </programme>
-  <programme start="20250207025000 +0100" channel="1162-prima-sk" stop="20250207035000 +0100">
-    <title>Cesty domů (63)</title>
-    <desc>21% Domov je tam, kde na nás čaká láska. Rudolf stratil dcéru, ale získava späť syna. Martinova svadba s Helčou pomáha rodine nachvíľu zabudnúť na smútok</desc>
-  </programme>
-  <programme start="20250207025000 +0100" channel="549-tlc" stop="20250207034000 +0100">
-    <title>450kg sestry V (9)</title>
-    <desc>61% V pěkné kaši
-Rodina přijíždí do Londýna na svou první zahraniční dovolenou, dozvědět se více o svém původu. Tammy se dostane na hranice svých fyzických možností</desc>
+  <programme start="20250207025000 +0100" channel="15611-joj-sport-2" stop="20250207044000 +0100">
+    <title>Basketbal - Tipos SBL</title>
+    <desc>BC Komárno - Patrioti Levice
+Záznam basketbalového zápasu slovenskej basketbalovej ligy</desc>
   </programme>
   <programme start="20250207025000 +0100" channel="1320-love-nature" stop="20250207034500 +0100">
     <title>Můj nejlepší kamarád je zvíře (5)</title>
@@ -14120,6 +14107,19 @@ Rodina přijíždí do Londýna na svou první zahraniční dovolenou, dozvědě
     <title>Chůva k pohledání (16)</title>
     <desc>76% Americký sitcom (1993)</desc>
   </programme>
+  <programme start="20250207025000 +0100" channel="1162-prima-sk" stop="20250207035000 +0100">
+    <title>Cesty domů (63)</title>
+    <desc>21% Domov je tam, kde na nás čaká láska. Rudolf stratil dcéru, ale získava späť syna. Martinova svadba s Helčou pomáha rodine nachvíľu zabudnúť na smútok</desc>
+  </programme>
+  <programme start="20250207025000 +0100" channel="549-tlc" stop="20250207034000 +0100">
+    <title>450kg sestry V (9)</title>
+    <desc>61% V pěkné kaši
+Rodina přijíždí do Londýna na svou první zahraniční dovolenou, dozvědět se více o svém původu. Tammy se dostane na hranice svých fyzických možností</desc>
+  </programme>
+  <programme start="20250207025000 +0100" channel="1141-joj-family" stop="20250207032500 +0100">
+    <title>Noviny</title>
+    <desc>Profesionální, nestranné a srozumitelné zpravodajství každý večer</desc>
+  </programme>
   <programme start="20250207025000 +0100" channel="57-minimax" stop="20250207030500 +0100">
     <title>Byla jednou jedna… Věc I (53)</title>
     <desc>(2023)</desc>
@@ -14132,84 +14132,145 @@ Rodina přijíždí do Londýna na svou první zahraniční dovolenou, dozvědě
     <title>Šaty pro královnu</title>
     <desc>70% Tilly se po letech vrací do svého rodného městečka v Austrálii, odkud musela jako dítě uprchnout kvůli obvinění z vraždy. Z cest po světě přijíždí Australský romantický film (2015)</desc>
   </programme>
-  <programme start="20250207025500 +0100" channel="15482-spark-tv" stop="20250207033000 +0100">
-    <title>Absolventi Baťovej školy práce I (2)</title>
-    <desc />
-  </programme>
-  <programme start="20250207025500 +0100" channel="1338-cnn-prima-news" stop="20250207041000 +0100">
-    <title>7 pádů Honzy Dědka</title>
-    <desc>B.Kohoutová;K.Kintera;J.Švandrlík;E.Holubová;B.Klepl;V.Kopta
-7 pádů Honzy Dědka z Malostranské besedy</desc>
-  </programme>
-  <programme start="20250207025500 +0100" channel="1187-cs-history" stop="20250207035000 +0100">
-    <title>Němečtí civilisté v druhé světové válce (2/2)</title>
-    <desc>Francouzský dokumentární film (2020)</desc>
-  </programme>
   <programme start="20250207025500 +0100" channel="1196-prima-krimi" stop="20250207044500 +0100">
     <title>Julie Lescautová II (10)</title>
     <desc>68% Francouzský krimiseriál (1993)</desc>
   </programme>
-  <programme start="20250207025500 +0100" channel="708-prima-zoom" stop="20250207040500 +0100">
-    <title>Římské megastavby (2)</title>
-    <desc>Arles
-Za vlády Julia Caesara se Římanům podařilo vyhrát hned několik válek. Na dobytých územích vyrostly velkolepé stavební projekty Francouzská dokumentární trilogie (2021)</desc>
-  </programme>
   <programme start="20250207025500 +0100" channel="20-orf2" stop="20250207035500 +0100">
     <title>STÖCKL</title>
     <desc />
-  </programme>
-  <programme start="20250207025500 +0100" channel="144-france24" stop="20250207030000 +0100">
-    <title>L'INSTANT MOBILE</title>
-    <desc />
-  </programme>
-  <programme start="20250207025500 +0100" channel="999-jojko" stop="20250207030500 +0100">
-    <title>Máša a medveď I (22)</title>
-    <desc>73% Ruská animovaná rozprávka (2010)</desc>
-  </programme>
-  <programme start="20250207025500 +0100" channel="704-auto-motor-sport" stop="20250207031500 +0100">
-    <title>Bloch vysvětluje</title>
-    <desc>Propadák nebo geniální věc: 7 automobilových vynálezů, které se nikdy neuchytily
-Jaký je rozdíl mezi turbem a atmosférickým motorem? Jak ideálně zrychlovat? Jaké jsou nejčastější mýty o tom, jak šetřit palivo? Automobilový svět je plný otázek a Alexander Bloch na ně odpoví. V pořadu „Bloch vysvětluje“ se dozvíte vše, vystudovaný inženýr a motoristický novinář podává vše jasnou, pochopitelnou a zábavnou formou</desc>
   </programme>
   <programme start="20250207025500 +0100" channel="73-ct-sport" stop="20250207030500 +0100">
     <title>Klasické lyžování: Minuty Jizerské 50</title>
     <desc>58. ČEZ Jizerská 50 2025
 Aktuální zpravodajství z příprav a průběhu největšího domácího dálkového běhu na lyžích</desc>
   </programme>
+  <programme start="20250207025500 +0100" channel="708-prima-zoom" stop="20250207040500 +0100">
+    <title>Římské megastavby (2)</title>
+    <desc>Arles
+Za vlády Julia Caesara se Římanům podařilo vyhrát hned několik válek. Na dobytých územích vyrostly velkolepé stavební projekty Francouzská dokumentární trilogie (2021)</desc>
+  </programme>
+  <programme start="20250207025500 +0100" channel="144-france24" stop="20250207030000 +0100">
+    <title>L'INSTANT MOBILE</title>
+    <desc />
+  </programme>
+  <programme start="20250207025500 +0100" channel="1187-cs-history" stop="20250207035000 +0100">
+    <title>Němečtí civilisté v druhé světové válce (2/2)</title>
+    <desc>Francouzský dokumentární film (2020)</desc>
+  </programme>
+  <programme start="20250207025500 +0100" channel="15482-spark-tv" stop="20250207033000 +0100">
+    <title>Absolventi Baťovej školy práce I (2)</title>
+    <desc />
+  </programme>
+  <programme start="20250207025500 +0100" channel="999-jojko" stop="20250207030500 +0100">
+    <title>Máša a medveď I (22)</title>
+    <desc>73% Ruská animovaná rozprávka (2010)</desc>
+  </programme>
+  <programme start="20250207025500 +0100" channel="1338-cnn-prima-news" stop="20250207041000 +0100">
+    <title>7 pádů Honzy Dědka</title>
+    <desc>B.Kohoutová;K.Kintera;J.Švandrlík;E.Holubová;B.Klepl;V.Kopta
+7 pádů Honzy Dědka z Malostranské besedy</desc>
+  </programme>
   <programme start="20250207025500 +0100" channel="10-jednotka" stop="20250207030000 +0100">
     <title>Počasie</title>
     <desc>Aktuálna predpoveď počasia. Slovenská republika (2025)</desc>
   </programme>
-  <programme start="20250207030000 +0100" channel="51-extreme-sports" stop="20250207040000 +0100">
-    <title>X Games - Minneapolis (1)</title>
-    <desc>Series 2019, Episode 1
-X Games' global reach continues to expand as the popular sports tournament hits Minneapolis. Set in a stunning natural landscape</desc>
+  <programme start="20250207025500 +0100" channel="704-auto-motor-sport" stop="20250207031500 +0100">
+    <title>Bloch vysvětluje</title>
+    <desc>Propadák nebo geniální věc: 7 automobilových vynálezů, které se nikdy neuchytily
+Jaký je rozdíl mezi turbem a atmosférickým motorem? Jak ideálně zrychlovat? Jaké jsou nejčastější mýty o tom, jak šetřit palivo? Automobilový svět je plný otázek a Alexander Bloch na ně odpoví. V pořadu „Bloch vysvětluje“ se dozvíte vše, vystudovaný inženýr a motoristický novinář podává vše jasnou, pochopitelnou a zábavnou formou</desc>
   </programme>
-  <programme start="20250207030000 +0100" channel="42-ta3" stop="20250207033000 +0100">
-    <title>Svet dnes</title>
-    <desc>Spravodajský súhrn udalostí zo zahraničia</desc>
+  <programme start="20250207030000 +0100" channel="82-amc" stop="20250207045000 +0100">
+    <title>Underworld: Boj v podsvětí</title>
+    <desc>70% Hrají: Kate Beckinsale, Scott Speedman, Shane Brolly</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="127-golf-channel" stop="20250207060000 +0100">
+    <title>Africa Amateur Championship</title>
+    <desc>2. kolo turnaje. Leopard Creek, South Africa</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="65-ct24" stop="20250207031000 +0100">
+    <title>Zprávy</title>
+    <desc>Zpravodajská relace</desc>
   </programme>
   <programme start="20250207030000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207033000 +0100">
     <title>Power joga</title>
     <desc>7.tréning</desc>
   </programme>
-  <programme start="20250207030000 +0100" channel="30-mtv00s" stop="20250207040000 +0100">
-    <title>Rap &amp; R'n'B Jamz</title>
-    <desc>Get ready for an epic playlist filled with the biggest and best Rap and R'n'B jamz of all time!</desc>
+  <programme start="20250207030000 +0100" channel="1512-rtvs-sport" stop="20250207035000 +0100">
+    <title>Správy</title>
+    <desc>Slovenská republika (2025)</desc>
   </programme>
   <programme start="20250207030000 +0100" channel="26-zdf" stop="20250207034500 +0100">
     <title>Der Bergdoktor</title>
     <desc>65% Die Entscheidung (2)
 Die Existenz der Gruber-Milch steht auf dem Spiel, als Gregor endlich sein wahres Gesicht zeigt. Es scheint nur eine Rettung</desc>
   </programme>
+  <programme start="20250207030000 +0100" channel="30-mtv00s" stop="20250207040000 +0100">
+    <title>Rap &amp; R'n'B Jamz</title>
+    <desc>Get ready for an epic playlist filled with the biggest and best Rap and R'n'B jamz of all time!</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="42-ta3" stop="20250207033000 +0100">
+    <title>Svet dnes</title>
+    <desc>Spravodajský súhrn udalostí zo zahraničia</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="59-eurosport-2" stop="20250207040000 +0100">
+    <title>Cyklistika: Tour of Valencia</title>
+    <desc>2. etapa</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="51-extreme-sports" stop="20250207040000 +0100">
+    <title>X Games - Minneapolis (1)</title>
+    <desc>Series 2019, Episode 1
+X Games' global reach continues to expand as the popular sports tournament hits Minneapolis. Set in a stunning natural landscape</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="70-viasat-history" stop="20250207035500 +0100">
+    <title>Prolomit kód I (6)</title>
+    <desc>Odhalíme přísně tajný americký tým kodérů, který prolomil nerozluštitelný kód Sovětského svazu a odhalil tak špiony na nejvyšších vládních místech</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="9-eurosport-1" stop="20250207040000 +0100">
+    <title>Alpské lyžování: Mistrovství světa</title>
+    <desc>Superobří slalom žen</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="144-france24" stop="20250207031200 +0100">
+    <title>LE JOURNAL</title>
+    <desc />
+  </programme>
+  <programme start="20250207030000 +0100" channel="10-jednotka" stop="20250207040500 +0100">
+    <title>Don Matteo VII</title>
+    <desc>66% Taliansko (2009)</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="15441-joj-24" stop="20250207040000 +0100">
+    <title>24 Podcast</title>
+    <desc>Rozhovory na aktuálne a atraktívne témy so zaujímavými hosťami</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="4-prima" stop="20250207040000 +0100">
+    <title>Námořní vyšetřovací služba VII (14)</title>
+    <desc>78% Americký krimiseriál (2009)</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="190-bbc-world-news" stop="20250207033000 +0100">
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="15322-hgtv" stop="20250207033000 +0100">
+    <title>Levný dům na pláži XXIV (6)</title>
+    <desc>Větší na South Padre Island
+Snoubenci hledají dům u pláže na ostrově South Padre Island v Texasu, kde by obě jejich rodiny mohly žít společně pod jednou střechou</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="3-ct2" stop="20250207033000 +0100">
+    <title>Na hranici tradic</title>
+    <desc>Vlasta Grycová – hlas z Kopanic
+Legenda moravskoslovenského folkloru a straňanských písní, mimo jiné také držitelka FOSKARa (2011)</desc>
+  </programme>
   <programme start="20250207030000 +0100" channel="228-disney-channel" stop="20250207032500 +0100">
     <title>Anna mezi obojživelníky (15)</title>
     <desc>83% Plentrovi se ubytují v hostinci. Anna a Wally jdou po stopě</desc>
   </programme>
-  <programme start="20250207030000 +0100" channel="202-history-channel" stop="20250207032000 +0100">
-    <title>Mistři aukcí</title>
-    <desc>Hra s členem síně slávy
-Allen se vydává na aukci s Elle, zatímco Ton a Velká sestra přestavují obchod, aby pomohli přilákat více zákazníků. Allen objeví</desc>
+  <programme start="20250207030000 +0100" channel="191-lux" stop="20250207032500 +0100">
+    <title>Hodina milosrdenstva</title>
+    <desc>Modlitba k Božiemu milosrdenstvu</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="145-france24-en" stop="20250207031000 +0100">
+    <title>NEWS</title>
+    <desc />
   </programme>
   <programme start="20250207030000 +0100" channel="232-national-geographic-hd" stop="20250207034500 +0100">
     <title>Jak chytit pašeráka - výběr III (4)</title>
@@ -14220,164 +14281,108 @@ USA 2022 Během kontroly zboží odhalí policie v Laredu kapalný metamfetamin 
     <title>Sky News</title>
     <desc>A round up of all the latest news from the UK and around the world, including the Press Preview</desc>
   </programme>
-  <programme start="20250207030000 +0100" channel="1512-rtvs-sport" stop="20250207035000 +0100">
-    <title>Správy</title>
-    <desc>Slovenská republika (2025)</desc>
-  </programme>
   <programme start="20250207030000 +0100" channel="244-canal-24-horas" stop="20250207033000 +0100">
     <title>Telediario Internacional</title>
     <desc />
+  </programme>
+  <programme start="20250207030000 +0100" channel="1324-rtvs-24" stop="20250207035000 +0100">
+    <title>Správy</title>
+    <desc>Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="207-the-fishing-and-hunting" stop="20250207033000 +0100">
+    <title>Péter Pál Halmi - Má cesta do Conklinu</title>
+    <desc>Lesy bohaté na zvěř a na diváka čekají nová lovecká dobrodružství</desc>
+  </programme>
+  <programme start="20250207030000 +0100" channel="15508-tv-doktor" stop="20250207035000 +0100">
+    <title>Ordinácia s MUDr. Romanom</title>
+    <desc />
+  </programme>
+  <programme start="20250207030000 +0100" channel="202-history-channel" stop="20250207032000 +0100">
+    <title>Mistři aukcí</title>
+    <desc>Hra s členem síně slávy
+Allen se vydává na aukci s Elle, zatímco Ton a Velká sestra přestavují obchod, aby pomohli přilákat více zákazníků. Allen objeví</desc>
   </programme>
   <programme start="20250207030000 +0100" channel="1199-travelxp-hd" stop="20250207033000 +0100">
     <title>Bucket List (7)</title>
     <desc>Kagoshima
 Daniel Coll &amp; Paddy Doherty find out some of the best places in Kyushu to try out some local hard liquor, and bonito, a local seafood delicacy</desc>
   </programme>
-  <programme start="20250207030000 +0100" channel="4-prima" stop="20250207040000 +0100">
-    <title>Námořní vyšetřovací služba VII (14)</title>
-    <desc>78% Americký krimiseriál (2009)</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="191-lux" stop="20250207032500 +0100">
-    <title>Hodina milosrdenstva</title>
-    <desc>Modlitba k Božiemu milosrdenstvu</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="3-ct2" stop="20250207033000 +0100">
-    <title>Na hranici tradic</title>
-    <desc>Vlasta Grycová – hlas z Kopanic
-Legenda moravskoslovenského folkloru a straňanských písní, mimo jiné také držitelka FOSKARa (2011)</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="15322-hgtv" stop="20250207033000 +0100">
-    <title>Levný dům na pláži XXIV (6)</title>
-    <desc>Větší na South Padre Island
-Snoubenci hledají dům u pláže na ostrově South Padre Island v Texasu, kde by obě jejich rodiny mohly žít společně pod jednou střechou</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="10-jednotka" stop="20250207040500 +0100">
-    <title>Don Matteo VII</title>
-    <desc>66% Taliansko (2009)</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="127-golf-channel" stop="20250207060000 +0100">
-    <title>Africa Amateur Championship</title>
-    <desc>2. kolo turnaje. Leopard Creek, South Africa</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="70-viasat-history" stop="20250207035500 +0100">
-    <title>Prolomit kód I (6)</title>
-    <desc>Odhalíme přísně tajný americký tým kodérů, který prolomil nerozluštitelný kód Sovětského svazu a odhalil tak špiony na nejvyšších vládních místech</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="1324-rtvs-24" stop="20250207035000 +0100">
-    <title>Správy</title>
-    <desc>Slovenská republika (2025)</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="59-eurosport-2" stop="20250207040000 +0100">
-    <title>Cyklistika: Tour of Valencia</title>
-    <desc>2. etapa</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="82-amc" stop="20250207045000 +0100">
-    <title>Underworld: Boj v podsvětí</title>
-    <desc>70% Hrají: Kate Beckinsale, Scott Speedman, Shane Brolly</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="15441-joj-24" stop="20250207040000 +0100">
-    <title>24 Podcast</title>
-    <desc>Rozhovory na aktuálne a atraktívne témy so zaujímavými hosťami</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="9-eurosport-1" stop="20250207040000 +0100">
-    <title>Alpské lyžování: Mistrovství světa</title>
-    <desc>Superobří slalom žen</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="15508-tv-doktor" stop="20250207035000 +0100">
-    <title>Ordinácia s MUDr. Romanom</title>
-    <desc />
-  </programme>
-  <programme start="20250207030000 +0100" channel="190-bbc-world-news" stop="20250207033000 +0100">
-    <title>Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="207-the-fishing-and-hunting" stop="20250207033000 +0100">
-    <title>Péter Pál Halmi - Má cesta do Conklinu</title>
-    <desc>Lesy bohaté na zvěř a na diváka čekají nová lovecká dobrodružství</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="145-france24-en" stop="20250207031000 +0100">
-    <title>NEWS</title>
-    <desc />
-  </programme>
-  <programme start="20250207030000 +0100" channel="65-ct24" stop="20250207031000 +0100">
-    <title>Zprávy</title>
-    <desc>Zpravodajská relace</desc>
-  </programme>
-  <programme start="20250207030000 +0100" channel="144-france24" stop="20250207031200 +0100">
-    <title>LE JOURNAL</title>
+  <programme start="20250207030500 +0100" channel="19-orf1" stop="20250207035000 +0100">
+    <title>Das zweite Leben von Nathalie</title>
     <desc />
   </programme>
   <programme start="20250207030500 +0100" channel="73-ct-sport" stop="20250207032000 +0100">
     <title>Branky, body, vteřiny</title>
     <desc>Zprávy ze světa sportu</desc>
   </programme>
-  <programme start="20250207030500 +0100" channel="999-jojko" stop="20250207033000 +0100">
-    <title>Sníček (4, 5)</title>
-    <desc>Slovenská náučno-zábavná relácia (2016)</desc>
+  <programme start="20250207030500 +0100" channel="15562-prima-cool-sk" stop="20250207034500 +0100">
+    <title>Policie v akci</title>
+    <desc>Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc</desc>
   </programme>
   <programme start="20250207030500 +0100" channel="57-minimax" stop="20250207032500 +0100">
     <title>Geronimo Stilton I (15)</title>
     <desc>67% (2009)</desc>
   </programme>
-  <programme start="20250207030500 +0100" channel="15562-prima-cool-sk" stop="20250207034500 +0100">
-    <title>Policie v akci</title>
-    <desc>Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc</desc>
-  </programme>
-  <programme start="20250207030500 +0100" channel="19-orf1" stop="20250207035000 +0100">
-    <title>Das zweite Leben von Nathalie</title>
-    <desc />
+  <programme start="20250207030500 +0100" channel="999-jojko" stop="20250207033000 +0100">
+    <title>Sníček (4, 5)</title>
+    <desc>Slovenská náučno-zábavná relácia (2016)</desc>
   </programme>
   <programme start="20250207031000 +0100" channel="225-doma" stop="20250207051000 +0100">
     <title>Adela show</title>
     <desc>Talkshow Adely Banášovej</desc>
   </programme>
-  <programme start="20250207031000 +0100" channel="65-ct24" stop="20250207033400 +0100">
-    <title>Studio ČT24</title>
-    <desc>Aktuální rozhovory na aktuální témata v ČR i ve světě</desc>
-  </programme>
   <programme start="20250207031000 +0100" channel="717-cs-mystery" stop="20250207043000 +0100">
     <title>Zombies - Přípravy na apokalypsu</title>
     <desc>Dokumentární film nastiňuje, jak by se mohly naplnit předpovědi Nostradama, nejznámějšího proroka historie, a jak bychom se měli připravit na jeho dosud Americký dokumentární film (2021)</desc>
-  </programme>
-  <programme start="20250207031000 +0100" channel="1408-rik-tv" stop="20250207032000 +0100">
-    <title>Máša a medveď I (56)</title>
-    <desc />
   </programme>
   <programme start="20250207031000 +0100" channel="145-france24-en" stop="20250207035300 +0100">
     <title>THE DEBATE</title>
     <desc />
   </programme>
+  <programme start="20250207031000 +0100" channel="65-ct24" stop="20250207033400 +0100">
+    <title>Studio ČT24</title>
+    <desc>Aktuální rozhovory na aktuální témata v ČR i ve světě</desc>
+  </programme>
   <programme start="20250207031000 +0100" channel="707-nova-fun" stop="20250207033500 +0100">
     <title>Chůva k pohledání (17)</title>
     <desc>76% Americký sitcom (1993)</desc>
   </programme>
+  <programme start="20250207031000 +0100" channel="1408-rik-tv" stop="20250207032000 +0100">
+    <title>Máša a medveď I (56)</title>
+    <desc />
+  </programme>
   <programme start="20250207031200 +0100" channel="144-france24" stop="20250207035500 +0100">
     <title>LE DEBAT</title>
     <desc>Tous les soirs, nos invités débattent du sujet principal a la Une de l'actualité en France ou a l'international</desc>
-  </programme>
-  <programme start="20250207031500 +0100" channel="33-joj" stop="20250207041500 +0100">
-    <title>Bez servítky</title>
-    <desc>Slovenská súťažná kuchárska reality šou (2023)</desc>
   </programme>
   <programme start="20250207031500 +0100" channel="718-wau" stop="20250207035500 +0100">
     <title>Myšlienky vraha IX (6)</title>
     <desc>81% Honba na čarodejnice
 Americký kriminálny seriál (2013)</desc>
   </programme>
-  <programme start="20250207031500 +0100" channel="704-auto-motor-sport" stop="20250207034500 +0100">
-    <title>Milované káry</title>
-    <desc>Drag-Racing
-Auta jsou tak rozmanitá jako lidé, kteří je vlastní. "Milované káry": tam se prolínají různé automobilové scény, vášeň má čtyři kola a volant</desc>
+  <programme start="20250207031500 +0100" channel="33-joj" stop="20250207041500 +0100">
+    <title>Bez servítky</title>
+    <desc>Slovenská súťažná kuchárska reality šou (2023)</desc>
   </programme>
   <programme start="20250207031500 +0100" channel="1192-seznam.cz-tv" stop="20250207040500 +0100">
     <title>Případy detektiva Murdocha XII (18)</title>
     <desc>82% Tma před úsvitem, II. část
 Závěr odhalí tvář šíleného zabijáka, který se snaží zmařit stopy pátrání 4. okrsku, kvůli němuž se konstábl Brackenreid těžce zranil</desc>
   </programme>
+  <programme start="20250207031500 +0100" channel="704-auto-motor-sport" stop="20250207034500 +0100">
+    <title>Milované káry</title>
+    <desc>Drag-Racing
+Auta jsou tak rozmanitá jako lidé, kteří je vlastní. "Milované káry": tam se prolínají různé automobilové scény, vášeň má čtyři kola a volant</desc>
+  </programme>
   <programme start="20250207031600 +0100" channel="106-national-geographic-wild" stop="20250207040100 +0100">
     <title>Hadi ve městě VI (5)</title>
     <desc>84% Teror v mateřské školce
 USA 2019 Sioux se setká tváří v tvář s mambou zelenou, Simon je téměř pokousán mambou černou a společně chytí dva podivné hady</desc>
+  </programme>
+  <programme start="20250207032000 +0100" channel="73-ct-sport" stop="20250207045000 +0100">
+    <title>Freestyle lyžování: SP USA</title>
+    <desc>SP ve freestyle lyžování 2024/2025
+Přímý přenos jízd v boulích žen a mužů na světovém poháru v Deer Valley</desc>
   </programme>
   <programme start="20250207032000 +0100" channel="496-prima-love" stop="20250207043000 +0100">
     <title>Dvojí tvář lásky (15)</title>
@@ -14391,115 +14396,110 @@ USA 2019 Sioux se setká tváří v tvář s mambou zelenou, Simon je téměř p
     <title>Nuhr im Ersten</title>
     <desc>Nur aus Berlin</desc>
   </programme>
-  <programme start="20250207032000 +0100" channel="16-3sat" stop="20250207041000 +0100">
-    <title>Winterwunderland Schweiz per Bahn (3/4)</title>
-    <desc>"Bernina-Bahn" - Die Gegensätzliche
-Seit bald 120 Jahren führt die spektakuläre Bernina-Strecke vom Engadin über den Berninapass und durchs Puschlav</desc>
-  </programme>
   <programme start="20250207032000 +0100" channel="202-history-channel" stop="20250207034500 +0100">
     <title>Jak se tohle dá vysvětlit?</title>
     <desc>Mořský had a supervoják ze Severní Koreje
 Pozorování 9 metrů dlouhého mořského hada. Je muž ze Severní Koreje důkazem, že supervojáci možná přece</desc>
   </programme>
-  <programme start="20250207032000 +0100" channel="73-ct-sport" stop="20250207045000 +0100">
-    <title>Freestyle lyžování: SP USA</title>
-    <desc>SP ve freestyle lyžování 2024/2025
-Přímý přenos jízd v boulích žen a mužů na světovém poháru v Deer Valley</desc>
+  <programme start="20250207032000 +0100" channel="16-3sat" stop="20250207041000 +0100">
+    <title>Winterwunderland Schweiz per Bahn (3/4)</title>
+    <desc>"Bernina-Bahn" - Die Gegensätzliche
+Seit bald 120 Jahren führt die spektakuläre Bernina-Strecke vom Engadin über den Berninapass und durchs Puschlav</desc>
   </programme>
   <programme start="20250207032500 +0100" channel="8-markiza" stop="20250207041500 +0100">
     <title>Susedské prípady</title>
     <desc>Viete, vedľa koho vlastne žijete?</desc>
-  </programme>
-  <programme start="20250207032500 +0100" channel="191-lux" stop="20250207040500 +0100">
-    <title>Na tónoch vďačnosti</title>
-    <desc>Hráme a spomíname si na tých, ktorí slávia životné jubileum, alebo tých, ktorým chceme prejaviť vďaku za ich pomoc a príklad</desc>
-  </programme>
-  <programme start="20250207032500 +0100" channel="57-minimax" stop="20250207035000 +0100">
-    <title>Geronimo Stilton I (16)</title>
-    <desc>67% (2009)</desc>
-  </programme>
-  <programme start="20250207032500 +0100" channel="228-disney-channel" stop="20250207034500 +0100">
-    <title>Ghostforce (5)</title>
-    <desc>49% Naši hrdinové brání New York před Zipzapem a Artiplamenem</desc>
-  </programme>
-  <programme start="20250207032500 +0100" channel="69-viasat-explore" stop="20250207041500 +0100">
-    <title>Australští tiráci V (3)</title>
-    <desc>70% Steve Grahame se vrací poté, co prasknutá pneumatika zapříčnila jeho pobyt v nemocnici a auto muselo do servisu, a na silnici Gibb River Road se situace</desc>
   </programme>
   <programme start="20250207032500 +0100" channel="1141-joj-family" stop="20250207041000 +0100">
     <title>Soudní síň</title>
     <desc>Bezcitný otec
 Soudní případy ze Slovenska plné emocí, které jsou inspirovány skutečností (2009)</desc>
   </programme>
-  <programme start="20250207033000 +0100" channel="1199-travelxp-hd" stop="20250207040000 +0100">
-    <title>Unwind (1)</title>
-    <desc>Hotel Oriole, Sri Lanka
-Indeya explores the Cinnamon plantations, tries a local dish and witnesses a traditional dance performance</desc>
+  <programme start="20250207032500 +0100" channel="228-disney-channel" stop="20250207034500 +0100">
+    <title>Ghostforce (5)</title>
+    <desc>49% Naši hrdinové brání New York před Zipzapem a Artiplamenem</desc>
   </programme>
-  <programme start="20250207033000 +0100" channel="15402-markiza-krimi" stop="20250207043500 +0100">
-    <title>112</title>
-    <desc />
+  <programme start="20250207032500 +0100" channel="191-lux" stop="20250207040500 +0100">
+    <title>Na tónoch vďačnosti</title>
+    <desc>Hráme a spomíname si na tých, ktorí slávia životné jubileum, alebo tých, ktorým chceme prejaviť vďaku za ich pomoc a príklad</desc>
   </programme>
-  <programme start="20250207033000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207040000 +0100">
-    <title>Instagym</title>
-    <desc>Funkčný intervalový tréning 2</desc>
+  <programme start="20250207032500 +0100" channel="69-viasat-explore" stop="20250207041500 +0100">
+    <title>Australští tiráci V (3)</title>
+    <desc>70% Steve Grahame se vrací poté, co prasknutá pneumatika zapříčnila jeho pobyt v nemocnici a auto muselo do servisu, a na silnici Gibb River Road se situace</desc>
   </programme>
-  <programme start="20250207033000 +0100" channel="3-ct2" stop="20250207035500 +0100">
-    <title>Záchrana stromu Slovácka</title>
-    <desc>Vzácné oskeruše a snaha o jejich zachování (2016)</desc>
-  </programme>
-  <programme start="20250207033000 +0100" channel="42-ta3" stop="20250207040000 +0100">
-    <title>Hl. správy-záznam</title>
-    <desc>Súhrn všetkého podstatného z domova a zahraničia ("ST" - program so skrytými titulkami)</desc>
-  </programme>
-  <programme start="20250207033000 +0100" channel="207-the-fishing-and-hunting" stop="20250207040000 +0100">
-    <title>Magazín Energofish (99)</title>
-    <desc>Podívejte se na nádherné úlovky a poslechněte si nejnovější rady a tipy. Sledujte rybáře na jejich fantastické cestě za rybami</desc>
-  </programme>
-  <programme start="20250207033000 +0100" channel="1408-rik-tv" stop="20250207034000 +0100">
-    <title>Telka Strýka Baltazára V (8)</title>
-    <desc>Strýko Baltazár spolu s malými kamarátmi zoznamujú prostredníctvom obrazovky zábavnou formou malých predškolákov s abecedou, tvarmi, číslami, farbami</desc>
+  <programme start="20250207032500 +0100" channel="57-minimax" stop="20250207035000 +0100">
+    <title>Geronimo Stilton I (16)</title>
+    <desc>67% (2009)</desc>
   </programme>
   <programme start="20250207033000 +0100" channel="1522-premier-sport-2" stop="20250207060000 +0100">
     <title>ATP500: Dallas Open</title>
     <desc>ATP500 - Přímý přenos 2. kola tenisového turnaje okruhu ATP Tour (Dallas, USA)</desc>
   </programme>
-  <programme start="20250207033000 +0100" channel="1012-mnam-tv" stop="20250207040000 +0100">
-    <title>Annabel Langbein: U mě na zahrádce (38)</title>
-    <desc>Kuchařka a spisovatelka Annabel Langbeinová vás zve na Nový Zéland, do své idylické chaty na břehu jezera Wanaka, kde připravuje jednoduchá, zdravá</desc>
-  </programme>
-  <programme start="20250207033000 +0100" channel="999-jojko" stop="20250207034000 +0100">
-    <title>Rapotáčik (2)</title>
-    <desc>Slovenská náučno-zábavná relácia nakrútená pod odborným dohľadom logopéda (2017). (do 12 rokov)</desc>
+  <programme start="20250207033000 +0100" channel="15402-markiza-krimi" stop="20250207043500 +0100">
+    <title>112</title>
+    <desc />
   </programme>
   <programme start="20250207033000 +0100" channel="220-prima-cool" stop="20250207045000 +0100">
     <title>Zrádci Austrálie</title>
     <desc>Australská reality show (2022)</desc>
   </programme>
-  <programme start="20250207033000 +0100" channel="190-bbc-world-news" stop="20250207034500 +0100">
-    <title>Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world</desc>
-  </programme>
-  <programme start="20250207033000 +0100" channel="249-viasat-nature" stop="20250207035500 +0100">
-    <title>Psi hyenovití: Ve smečce I (6)</title>
-    <desc>Poslední Julzův týden. Setkání se lvy rozpráší smečku Čápů, Julz uvidí štěňata smečky Kakuli, jak se krmí na mršině puku, a smečka Manzi bojuje s prasetem</desc>
-  </programme>
-  <programme start="20250207033000 +0100" channel="244-canal-24-horas" stop="20250207040000 +0100">
-    <title>Telediario Internacional</title>
-    <desc />
+  <programme start="20250207033000 +0100" channel="221-sport2" stop="20250207060000 +0100">
+    <title>Lední hokej</title>
+    <desc>Národní liga, základní část Bern - ZSC Lions</desc>
   </programme>
   <programme start="20250207033000 +0100" channel="15482-spark-tv" stop="20250207042000 +0100">
     <title>Nová hodvábna cesta do Ruska I (3)</title>
     <desc />
   </programme>
-  <programme start="20250207033000 +0100" channel="221-sport2" stop="20250207060000 +0100">
-    <title>Lední hokej</title>
-    <desc>Národní liga, základní část Bern - ZSC Lions</desc>
+  <programme start="20250207033000 +0100" channel="190-bbc-world-news" stop="20250207034500 +0100">
+    <title>Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="1012-mnam-tv" stop="20250207040000 +0100">
+    <title>Annabel Langbein: U mě na zahrádce (38)</title>
+    <desc>Kuchařka a spisovatelka Annabel Langbeinová vás zve na Nový Zéland, do své idylické chaty na břehu jezera Wanaka, kde připravuje jednoduchá, zdravá</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="1408-rik-tv" stop="20250207034000 +0100">
+    <title>Telka Strýka Baltazára V (8)</title>
+    <desc>Strýko Baltazár spolu s malými kamarátmi zoznamujú prostredníctvom obrazovky zábavnou formou malých predškolákov s abecedou, tvarmi, číslami, farbami</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207040000 +0100">
+    <title>Instagym</title>
+    <desc>Funkčný intervalový tréning 2</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="42-ta3" stop="20250207040000 +0100">
+    <title>Hl. správy-záznam</title>
+    <desc>Súhrn všetkého podstatného z domova a zahraničia ("ST" - program so skrytými titulkami)</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="249-viasat-nature" stop="20250207035500 +0100">
+    <title>Psi hyenovití: Ve smečce I (6)</title>
+    <desc>Poslední Julzův týden. Setkání se lvy rozpráší smečku Čápů, Julz uvidí štěňata smečky Kakuli, jak se krmí na mršině puku, a smečka Manzi bojuje s prasetem</desc>
   </programme>
   <programme start="20250207033000 +0100" channel="15322-hgtv" stop="20250207040000 +0100">
     <title>Hledáme nemovitost CLII (8)</title>
     <desc>Velký rodinný dům na prázdniny
 Jednotlivci, páry a rodiny hledají svůj ideální dům. Najdou ten pravý, když mají dlouhý seznam přání a rozdílné názory?</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="1199-travelxp-hd" stop="20250207040000 +0100">
+    <title>Unwind (1)</title>
+    <desc>Hotel Oriole, Sri Lanka
+Indeya explores the Cinnamon plantations, tries a local dish and witnesses a traditional dance performance</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="244-canal-24-horas" stop="20250207040000 +0100">
+    <title>Telediario Internacional</title>
+    <desc />
+  </programme>
+  <programme start="20250207033000 +0100" channel="999-jojko" stop="20250207034000 +0100">
+    <title>Rapotáčik (2)</title>
+    <desc>Slovenská náučno-zábavná relácia nakrútená pod odborným dohľadom logopéda (2017). (do 12 rokov)</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="3-ct2" stop="20250207035500 +0100">
+    <title>Záchrana stromu Slovácka</title>
+    <desc>Vzácné oskeruše a snaha o jejich zachování (2016)</desc>
+  </programme>
+  <programme start="20250207033000 +0100" channel="207-the-fishing-and-hunting" stop="20250207040000 +0100">
+    <title>Magazín Energofish (99)</title>
+    <desc>Podívejte se na nádherné úlovky a poslechněte si nejnovější rady a tipy. Sledujte rybáře na jejich fantastické cestě za rybami</desc>
   </programme>
   <programme start="20250207033400 +0100" channel="65-ct24" stop="20250207040000 +0100">
     <title>Události v regionech</title>
@@ -14509,6 +14509,19 @@ Jednotlivci, páry a rodiny hledají svůj ideální dům. Najdou ten pravý, kd
     <title>Superstore II (13)</title>
     <desc>79% Americký komediální seriál (2016)</desc>
   </programme>
+  <programme start="20250207034000 +0100" channel="119-tve" stop="20250207044500 +0100">
+    <title>Noticias 24 H</title>
+    <desc>" data-begindate=</desc>
+  </programme>
+  <programme start="20250207034000 +0100" channel="805-ct-:d" stop="20250207044000 +0100">
+    <title>Kieslowski na Colours of Ostrava</title>
+    <desc>Vrcholní představitelé tuzemského urban folku Kieslowski na Colours of Ostrava, největším hudebním festivalu u nás. Účinkují: M. Kieslowski, D. Pomahač Provázejí Johana Matoušková a Pavel Kučera (2015)</desc>
+  </programme>
+  <programme start="20250207034000 +0100" channel="549-tlc" stop="20250207043000 +0100">
+    <title>Miluju maminčina mazánka IV (10)</title>
+    <desc>50% Proč, proč, proč, proč, proč?!
+Dia přichází na Nylahinu narozeninovou oslavu s velkou vervou. Matt ví, že jeho tajné rozhodnutí zlomí matce srdce</desc>
+  </programme>
   <programme start="20250207034000 +0100" channel="15292-prima-show" stop="20250207044500 +0100">
     <title>Prostřeno s šéfkuchaři II (9)</title>
     <desc>Britská soutěžní reality show (2022)</desc>
@@ -14517,31 +14530,26 @@ Jednotlivci, páry a rodiny hledají svůj ideální dům. Najdou ten pravý, kd
     <title>Knihy od Stonožky (5)</title>
     <desc>Slovenská relácia (2022)</desc>
   </programme>
-  <programme start="20250207034000 +0100" channel="119-tve" stop="20250207044500 +0100">
-    <title>Noticias 24 H</title>
-    <desc>" data-begindate=</desc>
+  <programme start="20250207034000 +0100" channel="1408-rik-tv" stop="20250207040500 +0100">
+    <title>Rev a motoroví miláčikovia I (18)</title>
+    <desc />
   </programme>
   <programme start="20250207034000 +0100" channel="1125-nova-international" stop="20250207035500 +0100">
     <title>Babicovy dobroty</title>
     <desc>Babicovy dobroty začnou v Nebilovech u Plzně, kde nám Věnceslava Vondráčková upeče punčový dort. U Jirky ve studiu se naučíme, jak si udělat Plněnou</desc>
   </programme>
-  <programme start="20250207034000 +0100" channel="1408-rik-tv" stop="20250207040500 +0100">
-    <title>Rev a motoroví miláčikovia I (18)</title>
-    <desc />
+  <programme start="20250207034500 +0100" channel="704-auto-motor-sport" stop="20250207043500 +0100">
+    <title>Eastside Motors</title>
+    <desc>Barterová spolupráce
+Když se bláznivá auta setkají s trochou šílenství, může za tím stát pouze posádka Eastside Motors. Tento obchod s ojetinami není normální</desc>
   </programme>
-  <programme start="20250207034000 +0100" channel="549-tlc" stop="20250207043000 +0100">
-    <title>Miluju maminčina mazánka IV (10)</title>
-    <desc>50% Proč, proč, proč, proč, proč?!
-Dia přichází na Nylahinu narozeninovou oslavu s velkou vervou. Matt ví, že jeho tajné rozhodnutí zlomí matce srdce</desc>
+  <programme start="20250207034500 +0100" channel="1320-love-nature" stop="20250207044000 +0100">
+    <title>Ochrana divoké zvěře v Malawi (5)</title>
+    <desc>Stvoření velká i malá</desc>
   </programme>
-  <programme start="20250207034000 +0100" channel="805-ct-:d" stop="20250207044000 +0100">
-    <title>Kieslowski na Colours of Ostrava</title>
-    <desc>Vrcholní představitelé tuzemského urban folku Kieslowski na Colours of Ostrava, největším hudebním festivalu u nás. Účinkují: M. Kieslowski, D. Pomahač Provázejí Johana Matoušková a Pavel Kučera (2015)</desc>
-  </programme>
-  <programme start="20250207034500 +0100" channel="26-zdf" stop="20250207043000 +0100">
-    <title>Blutige Anfänger</title>
-    <desc>Toxisch
-In einem jungen, aufstrebenden Architekturbüro in Halle wird die Leiche des Gründers von seinen Kollegen aufgefunden</desc>
+  <programme start="20250207034500 +0100" channel="1023-joj-cinema" stop="20250207051000 +0100">
+    <title>Super-Blb</title>
+    <desc>62% Francouzsko - belgická komedie (2022). Hrají: P. Lacheau, J. Arruti, T. Boudali. Režie: Philippe Lacheau.</desc>
   </programme>
   <programme start="20250207034500 +0100" channel="232-national-geographic-hd" stop="20250207043000 +0100">
     <title>Jak chytit pašeráka: Letiště JFK I (1)</title>
@@ -14552,43 +14560,35 @@ USA 2012 Celníci zastaví mladíka, který má v zavazadle kokain. Pak ho využ
     <title>Policie v akci</title>
     <desc>Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc</desc>
   </programme>
+  <programme start="20250207034500 +0100" channel="1513-prima-star" stop="20250207045000 +0100">
+    <title>Lásce navzdory (28)</title>
+    <desc>Turecká telenovela (2015)</desc>
+  </programme>
   <programme start="20250207034500 +0100" channel="202-history-channel" stop="20250207043000 +0100">
     <title>Vetřelci dávnověku</title>
     <desc>Dopady z kosmu
 Dopady meteoritů změnily náš svět, vytvořily ideální prostředí pro lidskou civilizaci a poskytly základní kovy. Mohly by však nové důkazy</desc>
   </programme>
-  <programme start="20250207034500 +0100" channel="1023-joj-cinema" stop="20250207051000 +0100">
-    <title>Super-Blb</title>
-    <desc>62% Francouzsko - belgická komedie (2022). Hrají: P. Lacheau, J. Arruti, T. Boudali. Režie: Philippe Lacheau.</desc>
-  </programme>
-  <programme start="20250207034500 +0100" channel="1513-prima-star" stop="20250207045000 +0100">
-    <title>Lásce navzdory (28)</title>
-    <desc>Turecká telenovela (2015)</desc>
-  </programme>
-  <programme start="20250207034500 +0100" channel="704-auto-motor-sport" stop="20250207043500 +0100">
-    <title>Eastside Motors</title>
-    <desc>Barterová spolupráce
-Když se bláznivá auta setkají s trochou šílenství, může za tím stát pouze posádka Eastside Motors. Tento obchod s ojetinami není normální</desc>
-  </programme>
-  <programme start="20250207034500 +0100" channel="190-bbc-world-news" stop="20250207040000 +0100">
-    <title>Sportsday</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism</desc>
-  </programme>
-  <programme start="20250207034500 +0100" channel="228-disney-channel" stop="20250207040500 +0100">
-    <title>Ghostforce (6)</title>
-    <desc>49% Ghostforce se postaví Zypnoovi a Spórofungusovi</desc>
+  <programme start="20250207034500 +0100" channel="26-zdf" stop="20250207043000 +0100">
+    <title>Blutige Anfänger</title>
+    <desc>Toxisch
+In einem jungen, aufstrebenden Architekturbüro in Halle wird die Leiche des Gründers von seinen Kollegen aufgefunden</desc>
   </programme>
   <programme start="20250207034500 +0100" channel="683-tv-dajto" stop="20250207044500 +0100">
     <title>Zig a Sharko</title>
     <desc>68% Animovaný seriál Francúzsko (2019)</desc>
   </programme>
-  <programme start="20250207034500 +0100" channel="1320-love-nature" stop="20250207044000 +0100">
-    <title>Ochrana divoké zvěře v Malawi (5)</title>
-    <desc>Stvoření velká i malá</desc>
+  <programme start="20250207034500 +0100" channel="228-disney-channel" stop="20250207040500 +0100">
+    <title>Ghostforce (6)</title>
+    <desc>49% Ghostforce se postaví Zypnoovi a Spórofungusovi</desc>
   </programme>
-  <programme start="20250207035000 +0100" channel="15508-tv-doktor" stop="20250207040000 +0100">
-    <title>Diagnóza</title>
-    <desc />
+  <programme start="20250207034500 +0100" channel="190-bbc-world-news" stop="20250207040000 +0100">
+    <title>Sportsday</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism</desc>
+  </programme>
+  <programme start="20250207035000 +0100" channel="1162-prima-sk" stop="20250207044000 +0100">
+    <title>Letiště (32)</title>
+    <desc>48% Dve ženy dvoch bratov. Anna a Ivana. Jedna tehotenstvo tají, druhá ho predstiera. Ako si s tým Václav a Robert poradia? Pôvodný český seriál televízie Prima</desc>
   </programme>
   <programme start="20250207035000 +0100" channel="1187-cs-history" stop="20250207044500 +0100">
     <title>Když se měnil svět (4)</title>
@@ -14599,22 +14599,6 @@ Francouzský dokumentární seriál (2009)</desc>
     <title>HIP: Ermittlerin mit Mords-IQ I (5)</title>
     <desc>Blutgruppe 0 negativ</desc>
   </programme>
-  <programme start="20250207035000 +0100" channel="1162-prima-sk" stop="20250207044000 +0100">
-    <title>Letiště (32)</title>
-    <desc>48% Dve ženy dvoch bratov. Anna a Ivana. Jedna tehotenstvo tají, druhá ho predstiera. Ako si s tým Václav a Robert poradia? Pôvodný český seriál televízie Prima</desc>
-  </programme>
-  <programme start="20250207035000 +0100" channel="1512-rtvs-sport" stop="20250207040000 +0100">
-    <title>Góly - body - sekundy</title>
-    <desc>Športové spravodajstvo. Slovenská republika (2025)</desc>
-  </programme>
-  <programme start="20250207035000 +0100" channel="999-jojko" stop="20250207040500 +0100">
-    <title>Tom Gates I (13)</title>
-    <desc>Britský animovaný rodinný seriál (2021). (do 12 rokov)</desc>
-  </programme>
-  <programme start="20250207035000 +0100" channel="1324-rtvs-24" stop="20250207040000 +0100">
-    <title>Počasie</title>
-    <desc>Aktuálna predpoveď počasia. Slovenská republika (2025)</desc>
-  </programme>
   <programme start="20250207035000 +0100" channel="1020-krimi-barrandov" stop="20250207045500 +0100">
     <title>Ostříháno</title>
     <desc>Čtyři kadeřníci v soutěži na ostří nůžek</desc>
@@ -14623,92 +14607,57 @@ Francouzský dokumentární seriál (2009)</desc>
     <title>Mia a já IV (12)</title>
     <desc>67% (2021)</desc>
   </programme>
+  <programme start="20250207035000 +0100" channel="1512-rtvs-sport" stop="20250207040000 +0100">
+    <title>Góly - body - sekundy</title>
+    <desc>Športové spravodajstvo. Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207035000 +0100" channel="1324-rtvs-24" stop="20250207040000 +0100">
+    <title>Počasie</title>
+    <desc>Aktuálna predpoveď počasia. Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207035000 +0100" channel="15508-tv-doktor" stop="20250207040000 +0100">
+    <title>Diagnóza</title>
+    <desc />
+  </programme>
+  <programme start="20250207035000 +0100" channel="999-jojko" stop="20250207040500 +0100">
+    <title>Tom Gates I (13)</title>
+    <desc>Britský animovaný rodinný seriál (2021). (do 12 rokov)</desc>
+  </programme>
   <programme start="20250207035300 +0100" channel="145-france24-en" stop="20250207040000 +0100">
     <title>SHORT CUTS</title>
     <desc />
-  </programme>
-  <programme start="20250207035500 +0100" channel="3-ct2" stop="20250207042500 +0100">
-    <title>Před půlnocí</title>
-    <desc>Povídání se zajímavými osobnostmi, tentokrát o sázkách s textařem, podnikatelem a bývalým majitelem sázkové společnosti Michalem Horáčkem (2009). Uvádí Š. Bednářová</desc>
   </programme>
   <programme start="20250207035500 +0100" channel="707-nova-fun" stop="20250207043000 +0100">
     <title>Tele Tele</title>
     <desc>Jemný a inteligentní humor je zpátky. Aleluja! Zavřete děti, je to zase tady! Účinkují V. Žilková, M. Suchánek, R. Genzer a J. Carda</desc>
   </programme>
-  <programme start="20250207035500 +0100" channel="70-viasat-history" stop="20250207043500 +0100">
-    <title>Podzemní města IV (8)</title>
-    <desc>80% Don zkoumá nově objevené ruiny a jeskyně v Chorvatsku a představí skutečný příběh hrozivé královny, která se odvážila vzdorovat mocné Římské říši</desc>
-  </programme>
-  <programme start="20250207035500 +0100" channel="249-viasat-nature" stop="20250207044500 +0100">
-    <title>Záchrana divokých zvířat v Malawi II (2)</title>
-    <desc>Infekce v noze brání propuštění mladé chocholatky, dr. Amanda vystopuje a nasadí obojek mladému lvu, zkontrolujeme také nemocné mládě z buše a přivítáme</desc>
-  </programme>
-  <programme start="20250207035500 +0100" channel="1125-nova-international" stop="20250207045000 +0100">
-    <title>Riskuj!</title>
-    <desc>Napínavá vědomostní soutěž o ceny. Uvádí Jan Rosák</desc>
+  <programme start="20250207035500 +0100" channel="3-ct2" stop="20250207042500 +0100">
+    <title>Před půlnocí</title>
+    <desc>Povídání se zajímavými osobnostmi, tentokrát o sázkách s textařem, podnikatelem a bývalým majitelem sázkové společnosti Michalem Horáčkem (2009). Uvádí Š. Bednářová</desc>
   </programme>
   <programme start="20250207035500 +0100" channel="718-wau" stop="20250207044500 +0100">
     <title>Súdna sieň</title>
     <desc>Vezmite si ho naspäť!
 Súdne prípady zo Slovenska plné emócii, ktoré sú inšpirované skutočnosťou (2010)</desc>
   </programme>
-  <programme start="20250207035500 +0100" channel="144-france24" stop="20250207040000 +0100">
-    <title>L'INSTANT MOBILE</title>
-    <desc />
+  <programme start="20250207035500 +0100" channel="1125-nova-international" stop="20250207045000 +0100">
+    <title>Riskuj!</title>
+    <desc>Napínavá vědomostní soutěž o ceny. Uvádí Jan Rosák</desc>
+  </programme>
+  <programme start="20250207035500 +0100" channel="249-viasat-nature" stop="20250207044500 +0100">
+    <title>Záchrana divokých zvířat v Malawi II (2)</title>
+    <desc>Infekce v noze brání propuštění mladé chocholatky, dr. Amanda vystopuje a nasadí obojek mladému lvu, zkontrolujeme také nemocné mládě z buše a přivítáme</desc>
+  </programme>
+  <programme start="20250207035500 +0100" channel="70-viasat-history" stop="20250207043500 +0100">
+    <title>Podzemní města IV (8)</title>
+    <desc>80% Don zkoumá nově objevené ruiny a jeskyně v Chorvatsku a představí skutečný příběh hrozivé královny, která se odvážila vzdorovat mocné Římské říši</desc>
   </programme>
   <programme start="20250207035500 +0100" channel="20-orf2" stop="20250207040000 +0100">
     <title>Seitenblicke</title>
     <desc />
   </programme>
-  <programme start="20250207040000 +0100" channel="1324-rtvs-24" stop="20250207042500 +0100">
-    <title>Správy z regiónov</title>
-    <desc>Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska. Slovenská republika (2025)</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="1012-mnam-tv" stop="20250207043000 +0100">
-    <title>Francouzské dobrodružství Jamese Martina (4)</title>
-    <desc>Annecy
-Šéfkuchař James Martin cestou po Francii sleduje nezapomenutelnou televizní cestu, kterou před 30 lety podnikl jeho kulinární hrdina Keith Floyd</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="65-ct24" stop="20250207041000 +0100">
-    <title>Zprávy</title>
-    <desc>Zpravodajská relace</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="59-eurosport-2" stop="20250207060000 +0100">
-    <title>Alpské lyžování: Mistrovství světa</title>
-    <desc>Superobří slalom žen</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="126-axn-white" stop="20250207050000 +0100">
-    <title>Teleshop</title>
-    <desc>Teleshopping</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="15-discovery-channel" stop="20250207050000 +0100">
-    <title>Rození obchodníci X (10)</title>
-    <desc>82% FSM Syrena 105
-Mike se vydává do Polska koupit FSO Syrena. Mimo Polsko však toto auto v podstatě nikdo nezná. Podaří se dvojici auto prodat a ještě na tom vydělat?</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="51-extreme-sports" stop="20250207050000 +0100">
-    <title>X Games - Minneapolis (2)</title>
-    <desc>Series 2019, Episode 2
-X Games' global reach continues to expand as the popular sports tournament hits Minneapolis. Set in a stunning natural landscape</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="20-orf2" stop="20250207045500 +0100">
-    <title>Barbara Karlich - Talk um 4</title>
-    <desc>Zweite Chance für unsere Liebe</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="190-bbc-world-news" stop="20250207043000 +0100">
-    <title>Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="244-canal-24-horas" stop="20250207043000 +0100">
-    <title>Telediario Internacional</title>
-    <desc />
-  </programme>
-  <programme start="20250207040000 +0100" channel="207-the-fishing-and-hunting" stop="20250207043000 +0100">
-    <title>Method-feederový lov s MIKADO Total Fishing</title>
-    <desc>Podívejte se na nádherné úlovky a poslechněte si nejnovější rady a tipy. Sledujte rybáře na jejich fantastické cestě za rybami</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="144-france24" stop="20250207041000 +0100">
-    <title>LE JOURNAL</title>
+  <programme start="20250207035500 +0100" channel="144-france24" stop="20250207040000 +0100">
+    <title>L'INSTANT MOBILE</title>
     <desc />
   </programme>
   <programme start="20250207040000 +0100" channel="195-sky-news" stop="20250207050000 +0100">
@@ -14720,119 +14669,178 @@ X Games' global reach continues to expand as the popular sports tournament hits 
     <desc>Penghu Island, Taiwan
 Alex visits Taiwan’s Penghu island, popular for its tropical weather and sun kissed beaches, bundled with a host of water adventures</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="42-ta3" stop="20250207050000 +0100">
-    <title>Záznam TB/Štúdio TA3</title>
-    <desc>Návrat k najzaujmavejším udalostiam dňa</desc>
+  <programme start="20250207040000 +0100" channel="833-senzi" stop="20250207050000 +0100">
+    <title>Senzi noc</title>
+    <desc>Aj noc môže byť čarovná. Zmes všetkých žánrov pre všetkých, o zostávajú aj v noci s nami. Nebuďte sami - buďte s nami celú noc</desc>
   </programme>
   <programme start="20250207040000 +0100" channel="1241-leo-tv-gold" stop="20250207060000 +0100">
     <title>Vzrušení, které nekončí</title>
     <desc>Tvoje denní dávka neřesti - To nejlepší z Leo TV</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="15508-tv-doktor" stop="20250207041500 +0100">
-    <title>Medi noviny</title>
+  <programme start="20250207040000 +0100" channel="15-discovery-channel" stop="20250207050000 +0100">
+    <title>Rození obchodníci X (10)</title>
+    <desc>82% FSM Syrena 105
+Mike se vydává do Polska koupit FSO Syrena. Mimo Polsko však toto auto v podstatě nikdo nezná. Podaří se dvojici auto prodat a ještě na tom vydělat?</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="244-canal-24-horas" stop="20250207043000 +0100">
+    <title>Telediario Internacional</title>
     <desc />
   </programme>
   <programme start="20250207040000 +0100" channel="9-eurosport-1" stop="20250207050000 +0100">
     <title>Cyklistika: UAE Tour žen</title>
     <desc>1. etapa</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="30-mtv00s" stop="20250207090000 +0100">
-    <title>Non-Stop Y2Ks!</title>
-    <desc>The 00s gave us some iconic tracks and we're going to play some of them for you non-stop!</desc>
+  <programme start="20250207040000 +0100" channel="4-prima" stop="20250207044500 +0100">
+    <title>Castle na zabití VIII (8)</title>
+    <desc>84% Americký krimiseriál (2015)</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="125-axn-black" stop="20250207050000 +0100">
-    <title>Teleshop</title>
-    <desc>Vyberte si a nakupujte z lákavé nabídky na obrazovce</desc>
+  <programme start="20250207040000 +0100" channel="51-extreme-sports" stop="20250207050000 +0100">
+    <title>X Games - Minneapolis (2)</title>
+    <desc>Series 2019, Episode 2
+X Games' global reach continues to expand as the popular sports tournament hits Minneapolis. Set in a stunning natural landscape</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="15441-joj-24" stop="20250207042000 +0100">
-    <title>Štúdio 24</title>
-    <desc />
+  <programme start="20250207040000 +0100" channel="20-orf2" stop="20250207045500 +0100">
+    <title>Barbara Karlich - Talk um 4</title>
+    <desc>Zweite Chance für unsere Liebe</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="55-axn" stop="20250207050000 +0100">
+  <programme start="20250207040000 +0100" channel="42-ta3" stop="20250207050000 +0100">
+    <title>Záznam TB/Štúdio TA3</title>
+    <desc>Návrat k najzaujmavejším udalostiam dňa</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="126-axn-white" stop="20250207050000 +0100">
     <title>Teleshop</title>
     <desc>Teleshopping</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207050000 +0100">
-    <title>O zdraví nielen na tanieri</title>
-    <desc>O zdraví nielen na tanieri</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="833-senzi" stop="20250207050000 +0100">
-    <title>Senzi noc</title>
-    <desc>Aj noc môže byť čarovná. Zmes všetkých žánrov pre všetkých, o zostávajú aj v noci s nami. Nebuďte sami - buďte s nami celú noc</desc>
   </programme>
   <programme start="20250207040000 +0100" channel="205-nova-sport-1" stop="20250207043500 +0100">
     <title>Maneuvre Vancouvre - with Hans Rey</title>
     <desc>Dokument o extrémních sportech</desc>
   </programme>
-  <programme start="20250207040000 +0100" channel="145-france24-en" stop="20250207041500 +0100">
-    <title>NEWS</title>
-    <desc />
-  </programme>
-  <programme start="20250207040000 +0100" channel="4-prima" stop="20250207044500 +0100">
-    <title>Castle na zabití VIII (8)</title>
-    <desc>84% Americký krimiseriál (2015)</desc>
-  </programme>
-  <programme start="20250207040000 +0100" channel="1512-rtvs-sport" stop="20250207045000 +0100">
-    <title>Správy</title>
-    <desc>Slovenská republika (2025)</desc>
+  <programme start="20250207040000 +0100" channel="1472-body-in-balance-(sk)" stop="20250207050000 +0100">
+    <title>O zdraví nielen na tanieri</title>
+    <desc>O zdraví nielen na tanieri</desc>
   </programme>
   <programme start="20250207040000 +0100" channel="15322-hgtv" stop="20250207043000 +0100">
     <title>Hledáme nemovitost CLII (9)</title>
     <desc>Duchovno v Socalu
 Jednotlivci, páry a rodiny hledají svůj ideální dům. Najdou ten pravý, když mají dlouhý seznam přání a rozdílné názory?</desc>
   </programme>
+  <programme start="20250207040000 +0100" channel="190-bbc-world-news" stop="20250207043000 +0100">
+    <title>Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="207-the-fishing-and-hunting" stop="20250207043000 +0100">
+    <title>Method-feederový lov s MIKADO Total Fishing</title>
+    <desc>Podívejte se na nádherné úlovky a poslechněte si nejnovější rady a tipy. Sledujte rybáře na jejich fantastické cestě za rybami</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="30-mtv00s" stop="20250207090000 +0100">
+    <title>Non-Stop Y2Ks!</title>
+    <desc>The 00s gave us some iconic tracks and we're going to play some of them for you non-stop!</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="1324-rtvs-24" stop="20250207042500 +0100">
+    <title>Správy z regiónov</title>
+    <desc>Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska. Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="59-eurosport-2" stop="20250207060000 +0100">
+    <title>Alpské lyžování: Mistrovství světa</title>
+    <desc>Superobří slalom žen</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="55-axn" stop="20250207050000 +0100">
+    <title>Teleshop</title>
+    <desc>Teleshopping</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="1012-mnam-tv" stop="20250207043000 +0100">
+    <title>Francouzské dobrodružství Jamese Martina (4)</title>
+    <desc>Annecy
+Šéfkuchař James Martin cestou po Francii sleduje nezapomenutelnou televizní cestu, kterou před 30 lety podnikl jeho kulinární hrdina Keith Floyd</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="1512-rtvs-sport" stop="20250207045000 +0100">
+    <title>Správy</title>
+    <desc>Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="15441-joj-24" stop="20250207042000 +0100">
+    <title>Štúdio 24</title>
+    <desc />
+  </programme>
+  <programme start="20250207040000 +0100" channel="125-axn-black" stop="20250207050000 +0100">
+    <title>Teleshop</title>
+    <desc>Vyberte si a nakupujte z lákavé nabídky na obrazovce</desc>
+  </programme>
+  <programme start="20250207040000 +0100" channel="144-france24" stop="20250207041000 +0100">
+    <title>LE JOURNAL</title>
+    <desc />
+  </programme>
+  <programme start="20250207040000 +0100" channel="145-france24-en" stop="20250207041500 +0100">
+    <title>NEWS</title>
+    <desc />
+  </programme>
+  <programme start="20250207040000 +0100" channel="15508-tv-doktor" stop="20250207041500 +0100">
+    <title>Medi noviny</title>
+    <desc />
+  </programme>
+  <programme start="20250207040000 +0100" channel="65-ct24" stop="20250207041000 +0100">
+    <title>Zprávy</title>
+    <desc>Zpravodajská relace</desc>
+  </programme>
   <programme start="20250207040100 +0100" channel="106-national-geographic-wild" stop="20250207044900 +0100">
     <title>Nejnebezpečnější zvířata světa I (3)</title>
     <desc>Indie
 USA 2007 Ve vyprahlých indických pouštích, zelených džunglích a drsných horách žije elitní skupina dvanácti nebezpečných druhů dravých živočichů</desc>
   </programme>
-  <programme start="20250207040500 +0100" channel="1408-rik-tv" stop="20250207043000 +0100">
-    <title>Malý medvedík I (23)</title>
-    <desc />
-  </programme>
-  <programme start="20250207040500 +0100" channel="10-jednotka" stop="20250207050000 +0100">
-    <title>Správy</title>
-    <desc>Slovenská republika (2025)</desc>
-  </programme>
-  <programme start="20250207040500 +0100" channel="1192-seznam.cz-tv" stop="20250207041500 +0100">
-    <title>U stánku II (11)</title>
-    <desc>Burek, piroh, pie. Slané koláče z celého světa
-Tři druhy plněných slaných koláčů, které se k nám do České republiky dostaly z ciziny</desc>
-  </programme>
-  <programme start="20250207040500 +0100" channel="999-jojko" stop="20250207043000 +0100">
-    <title>Volám sa Caillou V (23)</title>
-    <desc>38% Ockove skladačky
-Kanadský animovaný seriál (2010). (do 12 rokov)</desc>
-  </programme>
   <programme start="20250207040500 +0100" channel="15476-canal+-action" stop="20250207053300 +0100">
     <title>Den dobytí Bastily</title>
     <desc>63% Akční, thriller Velká Británie, Francie, Německo, Lucembursko, USA (2014). Hrají: Andrew Baldwin, Charlotte Le Bon, Idris Elba. Režie: James Watkins.</desc>
   </programme>
-  <programme start="20250207040500 +0100" channel="708-prima-zoom" stop="20250207045500 +0100">
-    <title>Neznámá Guyana (1)</title>
-    <desc>Nedotčený prales
-Nedotčený pralesVydejte se s průvodci a ochránci přírody prozkoumat krásnou, ale i drsnou přírodu Guyany od pralesa až po pobřeží. Německý dokumentární seriál (2021)</desc>
-  </programme>
-  <programme start="20250207040500 +0100" channel="228-disney-channel" stop="20250207043000 +0100">
-    <title>Tým Tiki (45)</title>
-    <desc>Dočasně oslepená Corto musí v dalším závodě improvizovat!</desc>
-  </programme>
-  <programme start="20250207040500 +0100" channel="17-das-erste" stop="20250207043500 +0100">
-    <title>Das Gipfeltreffen</title>
-    <desc>Schubert, Sträter und König retten die Welt</desc>
+  <programme start="20250207040500 +0100" channel="1408-rik-tv" stop="20250207043000 +0100">
+    <title>Malý medvedík I (23)</title>
+    <desc />
   </programme>
   <programme start="20250207040500 +0100" channel="191-lux" stop="20250207043000 +0100">
     <title>Peter medzi nami</title>
     <desc>Mravná sila
 Katechéza o nerestiach a cnostiach (15)</desc>
   </programme>
-  <programme start="20250207041000 +0100" channel="144-france24" stop="20250207042500 +0100">
-    <title>REPORTERS</title>
-    <desc>Un reportage long format tourné par nos reporters ou nos correspondants aux quatre coins du monde</desc>
+  <programme start="20250207040500 +0100" channel="228-disney-channel" stop="20250207043000 +0100">
+    <title>Tým Tiki (45)</title>
+    <desc>Dočasně oslepená Corto musí v dalším závodě improvizovat!</desc>
+  </programme>
+  <programme start="20250207040500 +0100" channel="10-jednotka" stop="20250207050000 +0100">
+    <title>Správy</title>
+    <desc>Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207040500 +0100" channel="17-das-erste" stop="20250207043500 +0100">
+    <title>Das Gipfeltreffen</title>
+    <desc>Schubert, Sträter und König retten die Welt</desc>
+  </programme>
+  <programme start="20250207040500 +0100" channel="708-prima-zoom" stop="20250207045500 +0100">
+    <title>Neznámá Guyana (1)</title>
+    <desc>Nedotčený prales
+Nedotčený pralesVydejte se s průvodci a ochránci přírody prozkoumat krásnou, ale i drsnou přírodu Guyany od pralesa až po pobřeží. Německý dokumentární seriál (2021)</desc>
+  </programme>
+  <programme start="20250207040500 +0100" channel="999-jojko" stop="20250207043000 +0100">
+    <title>Volám sa Caillou V (23)</title>
+    <desc>38% Ockove skladačky
+Kanadský animovaný seriál (2010). (do 12 rokov)</desc>
+  </programme>
+  <programme start="20250207040500 +0100" channel="1192-seznam.cz-tv" stop="20250207041500 +0100">
+    <title>U stánku II (11)</title>
+    <desc>Burek, piroh, pie. Slané koláče z celého světa
+Tři druhy plněných slaných koláčů, které se k nám do České republiky dostaly z ciziny</desc>
   </programme>
   <programme start="20250207041000 +0100" channel="1141-joj-family" stop="20250207043500 +0100">
     <title>Krimi</title>
     <desc>Zločiny, nehody, nespravedlnost, pohřešované osoby</desc>
+  </programme>
+  <programme start="20250207041000 +0100" channel="144-france24" stop="20250207042500 +0100">
+    <title>REPORTERS</title>
+    <desc>Un reportage long format tourné par nos reporters ou nos correspondants aux quatre coins du monde</desc>
+  </programme>
+  <programme start="20250207041000 +0100" channel="65-ct24" stop="20250207050000 +0100">
+    <title>Studio ČT24</title>
+    <desc>Aktuální rozhovory na aktuální témata v ČR i ve světě</desc>
+  </programme>
+  <programme start="20250207041000 +0100" channel="1338-cnn-prima-news" stop="20250207044500 +0100">
+    <title>360°</title>
+    <desc>Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky</desc>
   </programme>
   <programme start="20250207041000 +0100" channel="16-3sat" stop="20250207050000 +0100">
     <title>Winterwunderland Schweiz per Bahn (4/4)</title>
@@ -14843,14 +14851,6 @@ Die Schatzalp-Bahn gehört zu den ältesten Bahnen der Schweiz und punktet noch 
     <title>Riskuj</title>
     <desc>Slovenská súťažno-zábavná šou (2022). Moderuje: Dušan Ambróš</desc>
   </programme>
-  <programme start="20250207041000 +0100" channel="1338-cnn-prima-news" stop="20250207044500 +0100">
-    <title>360°</title>
-    <desc>Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky</desc>
-  </programme>
-  <programme start="20250207041000 +0100" channel="65-ct24" stop="20250207050000 +0100">
-    <title>Studio ČT24</title>
-    <desc>Aktuální rozhovory na aktuální témata v ČR i ve světě</desc>
-  </programme>
   <programme start="20250207041500 +0100" channel="8-markiza" stop="20250207050000 +0100">
     <title>Rodinné prípady</title>
     <desc>Skutočné príbehy ľudí, ktorým sa život vymkol z rúk</desc>
@@ -14859,9 +14859,17 @@ Die Schatzalp-Bahn gehört zu den ältesten Bahnen der Schweiz und punktet noch 
     <title>Lovecká sezona - Volání divočiny I (48)</title>
     <desc>(2023)</desc>
   </programme>
+  <programme start="20250207041500 +0100" channel="69-viasat-explore" stop="20250207050500 +0100">
+    <title>Australští tiráci V (4)</title>
+    <desc>70% Nick a Jo, kteří uvízli více než 100 km od pomoci, jsou nuceni podniknout záchrannou misi, aby doručili svůj náklad. A stěhování monstrózního domu firmou</desc>
+  </programme>
   <programme start="20250207041500 +0100" channel="33-joj" stop="20250207045500 +0100">
     <title>Riskuj</title>
     <desc>Slovenská súťažno-zábavná šou (2025)</desc>
+  </programme>
+  <programme start="20250207041500 +0100" channel="15508-tv-doktor" stop="20250207043000 +0100">
+    <title>(§)právna rada</title>
+    <desc />
   </programme>
   <programme start="20250207041500 +0100" channel="1038-nova-sport-2" stop="20250207061500 +0100">
     <title>Atlanta Hawks - San Antonio Spurs</title>
@@ -14871,26 +14879,18 @@ Die Schatzalp-Bahn gehört zu den ältesten Bahnen der Schweiz und punktet noch 
     <title>TALKING EUROPE Part 2</title>
     <desc />
   </programme>
-  <programme start="20250207041500 +0100" channel="69-viasat-explore" stop="20250207050500 +0100">
-    <title>Australští tiráci V (4)</title>
-    <desc>70% Nick a Jo, kteří uvízli více než 100 km od pomoci, jsou nuceni podniknout záchrannou misi, aby doručili svůj náklad. A stěhování monstrózního domu firmou</desc>
-  </programme>
-  <programme start="20250207041500 +0100" channel="15508-tv-doktor" stop="20250207043000 +0100">
-    <title>(§)právna rada</title>
-    <desc />
-  </programme>
   <programme start="20250207041500 +0100" channel="1192-seznam.cz-tv" stop="20250207051000 +0100">
     <title>Kalendář přírody (1)</title>
     <desc>Leden
 Krajina pod bílou pokrývkou, krátké dny, ale zase spousta radovánek. Tím vším je leden</desc>
   </programme>
-  <programme start="20250207042000 +0100" channel="15482-spark-tv" stop="20250207051000 +0100">
-    <title>WWII: Detektívovia leteckých nešťastí I (3)</title>
-    <desc />
-  </programme>
   <programme start="20250207042000 +0100" channel="15441-joj-24" stop="20250207051000 +0100">
     <title>Analýzy 24</title>
     <desc>Aktuálne a dôležité témy dňa rozoberú ako prvé Analýzy 24. Školstvo, zdravotníctvo, politika, veda aj šoubiznis. S odborníkmi analyzujeme</desc>
+  </programme>
+  <programme start="20250207042000 +0100" channel="15482-spark-tv" stop="20250207051000 +0100">
+    <title>WWII: Detektívovia leteckých nešťastí I (3)</title>
+    <desc />
   </programme>
   <programme start="20250207042000 +0100" channel="15568-markiza-klasik" stop="20250207051000 +0100">
     <title>Dereš</title>
@@ -14900,6 +14900,14 @@ Krajina pod bílou pokrývkou, krátké dny, ale zase spousta radovánek. Tím v
     <title>Rosalinda (24)</title>
     <desc>61% Mexická telenovela (1999)</desc>
   </programme>
+  <programme start="20250207042500 +0100" channel="144-france24" stop="20250207043000 +0100">
+    <title>L'INSTANT MOBILE</title>
+    <desc />
+  </programme>
+  <programme start="20250207042500 +0100" channel="3-ct2" stop="20250207045000 +0100">
+    <title>Tenkrát na východě</title>
+    <desc>V žilách jim koluje česká krev a jejich domovem je Ukrajina (2014). Připravili L. Králová a J. Motejzík</desc>
+  </programme>
   <programme start="20250207042500 +0100" channel="1324-rtvs-24" stop="20250207045500 +0100">
     <title>Z prvej ruky</title>
     <desc>Diskusná rozhlasová relácia o aktuálnych témach. Slovenská republika (2025)</desc>
@@ -14908,12 +14916,74 @@ Krajina pod bílou pokrývkou, krátké dny, ale zase spousta radovánek. Tím v
     <title>Lovecká sezona - Volání divočiny I (49)</title>
     <desc>(2023)</desc>
   </programme>
-  <programme start="20250207042500 +0100" channel="3-ct2" stop="20250207045000 +0100">
-    <title>Tenkrát na východě</title>
-    <desc>V žilách jim koluje česká krev a jejich domovem je Ukrajina (2014). Připravili L. Králová a J. Motejzík</desc>
+  <programme start="20250207043000 +0100" channel="1199-travelxp-hd" stop="20250207050000 +0100">
+    <title>Xplore Egypt (1)</title>
+    <desc>Cairo
+When you visit the glorious land of the Pharaohs, the first thing on your to-do list should be, visiting the tombs of mummies and paying a tribute to them</desc>
   </programme>
-  <programme start="20250207042500 +0100" channel="144-france24" stop="20250207043000 +0100">
-    <title>L'INSTANT MOBILE</title>
+  <programme start="20250207043000 +0100" channel="15322-hgtv" stop="20250207050000 +0100">
+    <title>Úspěch, nebo fiasko? IV (8)</title>
+    <desc>62% Možnost velkého zisku
+Tarek a Christina objeví dům, který prodává jeho majitel. Nemovitost potřebuje renovace a bydlí v ní nájemník</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="1408-rik-tv" stop="20250207045500 +0100">
+    <title>Ruby z dúhy I (1)</title>
+    <desc>60% Príbeh odvážneho a vynaliezavého dievčatka, ktoré sa čarovným spôsobom prenáša do dúhovej dedinky. Je tam rozmanitá krajina, v ktorej žijú jej hračky</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="1012-mnam-tv" stop="20250207053000 +0100">
+    <title>Gordon Ramsay: Za 24 hodin do pekla a zpět . (5)</title>
+    <desc>La Serenata
+Šéfkuchař Gordon Ramsay zamíří do Los Angeles zachránit rodinnou mexickou restauraci La Serenata, která po smrti majitele Dona Pepeho upadá</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="999-jojko" stop="20250207044000 +0100">
+    <title>Pat a Mat (19)</title>
+    <desc>84% Česká animovaná rozprávka (2018)</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="232-national-geographic-hd" stop="20250207051400 +0100">
+    <title>Jedinečné letiště v Dubaji II (4)</title>
+    <desc>74% Perník
+Velká Británie 2015 V zavazadle cestujícího z Ghany objeví celníci pervitin. V Manchesteru se kvůli holubovi zpozdí let do Emirátů</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="15508-tv-doktor" stop="20250207050000 +0100">
+    <title>Spravodajský blok</title>
+    <desc />
+  </programme>
+  <programme start="20250207043000 +0100" channel="215-barrandov" stop="20250207055500 +0100">
+    <title>Jak to dopadlo!?</title>
+    <desc>Natočili jsme pro vás definitivní tečku za příběhy, které sledujete a u kterých chcete znát rozuzlení!</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="26-zdf" stop="20250207050000 +0100">
+    <title>Hallo deutschland</title>
+    <desc>Das abwechslungsreiche Gesellschaftsmagazin des ZDF präsentiert emotionale Geschichten über Menschen in Deutschland und Deutsche in aller Welt</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="549-tlc" stop="20250207053000 +0100">
+    <title>Malý pár IX (17)</title>
+    <desc>68% Můžeme zůstat tady. A to napořád!
+Při poslední zastávce se Kleinovi staví v jeskyni, kde hledají netopýry. Dokážou Zoey a Will na všechno uvnitř nesahat?</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="244-canal-24-horas" stop="20250207050000 +0100">
+    <title>La hora cultural</title>
+    <desc>Espacio que reúne a personajes del mundo del arte y la cultura espanoles e internacionales</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="190-bbc-world-news" stop="20250207044500 +0100">
+    <title>Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="144-france24" stop="20250207044000 +0100">
+    <title>BULLETIN</title>
+    <desc />
+  </programme>
+  <programme start="20250207043000 +0100" channel="191-lux" stop="20250207050000 +0100">
+    <title>Ruženec</title>
+    <desc>Radostné tajomstvá
+Modlitba radostného ruženca</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="496-prima-love" stop="20250207053500 +0100">
+    <title>Příchuť lásky (11)</title>
+    <desc>78% Turecký romanticko-komediální seriál (2017)</desc>
+  </programme>
+  <programme start="20250207043000 +0100" channel="145-france24-en" stop="20250207044500 +0100">
+    <title>BULLETIN</title>
     <desc />
   </programme>
   <programme start="20250207043000 +0100" channel="202-history-channel" stop="20250207051500 +0100">
@@ -14921,155 +14991,76 @@ Krajina pod bílou pokrývkou, krátké dny, ale zase spousta radovánek. Tím v
     <desc>UFO na snímku teenagera, dinosaurus létající nad Idahem a bezhlavé kozy
 Vyfotografoval švédský mladík jeden z nejpřesvědčivějších důkazů o UFO vůbec? Je video zveřejněné na internetu, které ukazuje tvora podobného pterodaktylovi letícího nad Idahem, pravé? Proč jsou do řeky v Atlantě opakovaně vyhazovány kozy bez hlav?</desc>
   </programme>
-  <programme start="20250207043000 +0100" channel="191-lux" stop="20250207050000 +0100">
-    <title>Ruženec</title>
-    <desc>Radostné tajomstvá
-Modlitba radostného ruženca</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="228-disney-channel" stop="20250207045500 +0100">
-    <title>Tým Tiki (46)</title>
-    <desc>Corto ohromuje svým pilotním uměním. Nyní je však zapotřebí dalšího talentu</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="244-canal-24-horas" stop="20250207050000 +0100">
-    <title>La hora cultural</title>
-    <desc>Espacio que reúne a personajes del mundo del arte y la cultura espanoles e internacionales</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="496-prima-love" stop="20250207053500 +0100">
-    <title>Příchuť lásky (11)</title>
-    <desc>78% Turecký romanticko-komediální seriál (2017)</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="190-bbc-world-news" stop="20250207044500 +0100">
-    <title>Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="549-tlc" stop="20250207053000 +0100">
-    <title>Malý pár IX (17)</title>
-    <desc>68% Můžeme zůstat tady. A to napořád!
-Při poslední zastávce se Kleinovi staví v jeskyni, kde hledají netopýry. Dokážou Zoey a Will na všechno uvnitř nesahat?</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="145-france24-en" stop="20250207044500 +0100">
-    <title>BULLETIN</title>
-    <desc />
-  </programme>
-  <programme start="20250207043000 +0100" channel="1012-mnam-tv" stop="20250207053000 +0100">
-    <title>Gordon Ramsay: Za 24 hodin do pekla a zpět . (5)</title>
-    <desc>La Serenata
-Šéfkuchař Gordon Ramsay zamíří do Los Angeles zachránit rodinnou mexickou restauraci La Serenata, která po smrti majitele Dona Pepeho upadá</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="232-national-geographic-hd" stop="20250207051400 +0100">
-    <title>Jedinečné letiště v Dubaji II (4)</title>
-    <desc>74% Perník
-Velká Británie 2015 V zavazadle cestujícího z Ghany objeví celníci pervitin. V Manchesteru se kvůli holubovi zpozdí let do Emirátů</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="215-barrandov" stop="20250207055500 +0100">
-    <title>Jak to dopadlo!?</title>
-    <desc>Natočili jsme pro vás definitivní tečku za příběhy, které sledujete a u kterých chcete znát rozuzlení!</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="207-the-fishing-and-hunting" stop="20250207050000 +0100">
-    <title>Kolem řeky Kriš s Reviczkym (3)</title>
-    <desc>Podívejte se na nádherné úlovky a poslechněte si nejnovější rady a tipy. Sledujte rybáře na jejich fantastické cestě za rybami</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="1408-rik-tv" stop="20250207045500 +0100">
-    <title>Ruby z dúhy I (1)</title>
-    <desc>60% Príbeh odvážneho a vynaliezavého dievčatka, ktoré sa čarovným spôsobom prenáša do dúhovej dedinky. Je tam rozmanitá krajina, v ktorej žijú jej hračky</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="707-nova-fun" stop="20250207045500 +0100">
-    <title>Ženatý se závazky (204)</title>
-    <desc>81% Americký seriál (1987-95)</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="15508-tv-doktor" stop="20250207050000 +0100">
-    <title>Spravodajský blok</title>
-    <desc />
-  </programme>
-  <programme start="20250207043000 +0100" channel="144-france24" stop="20250207044000 +0100">
-    <title>BULLETIN</title>
-    <desc />
-  </programme>
   <programme start="20250207043000 +0100" channel="15562-prima-cool-sk" stop="20250207052000 +0100">
     <title>Autosalon</title>
     <desc>Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="26-zdf" stop="20250207050000 +0100">
-    <title>Hallo deutschland</title>
-    <desc>Das abwechslungsreiche Gesellschaftsmagazin des ZDF präsentiert emotionale Geschichten über Menschen in Deutschland und Deutsche in aller Welt</desc>
   </programme>
   <programme start="20250207043000 +0100" channel="132-nova-cinema" stop="20250207063000 +0100">
     <title>Co jsme komu udělali?</title>
     <desc>70% Skvělá francouzská komedie plná svatebních zklamání. (2014). Hrají: Ch. Clavier, Ch. Lauby, A. Abittan. Režie: P. de Chauveron</desc>
   </programme>
-  <programme start="20250207043000 +0100" channel="999-jojko" stop="20250207044000 +0100">
-    <title>Pat a Mat (19)</title>
-    <desc>84% Česká animovaná rozprávka (2018)</desc>
-  </programme>
-  <programme start="20250207043000 +0100" channel="15322-hgtv" stop="20250207050000 +0100">
-    <title>Úspěch, nebo fiasko? IV (8)</title>
-    <desc>62% Možnost velkého zisku
-Tarek a Christina objeví dům, který prodává jeho majitel. Nemovitost potřebuje renovace a bydlí v ní nájemník</desc>
+  <programme start="20250207043000 +0100" channel="228-disney-channel" stop="20250207045500 +0100">
+    <title>Tým Tiki (46)</title>
+    <desc>Corto ohromuje svým pilotním uměním. Nyní je však zapotřebí dalšího talentu</desc>
   </programme>
   <programme start="20250207043000 +0100" channel="717-cs-mystery" stop="20250207050000 +0100">
     <title>Depozity říše III (8)</title>
     <desc>Živí svědkové historie
 Polský dokumentární seriál (2016)</desc>
   </programme>
-  <programme start="20250207043000 +0100" channel="1199-travelxp-hd" stop="20250207050000 +0100">
-    <title>Xplore Egypt (1)</title>
-    <desc>Cairo
-When you visit the glorious land of the Pharaohs, the first thing on your to-do list should be, visiting the tombs of mummies and paying a tribute to them</desc>
+  <programme start="20250207043000 +0100" channel="707-nova-fun" stop="20250207045500 +0100">
+    <title>Ženatý se závazky (204)</title>
+    <desc>81% Americký seriál (1987-95)</desc>
   </programme>
-  <programme start="20250207043500 +0100" channel="17-das-erste" stop="20250207045500 +0100">
-    <title>Brisant</title>
-    <desc />
+  <programme start="20250207043000 +0100" channel="207-the-fishing-and-hunting" stop="20250207050000 +0100">
+    <title>Kolem řeky Kriš s Reviczkym (3)</title>
+    <desc>Podívejte se na nádherné úlovky a poslechněte si nejnovější rady a tipy. Sledujte rybáře na jejich fantastické cestě za rybami</desc>
+  </programme>
+  <programme start="20250207043500 +0100" channel="15402-markiza-krimi" stop="20250207052500 +0100">
+    <title>Policajné prípady</title>
+    <desc>Život so sebou občas prináša komplikované situácie, ktoré človek ani napriek všetkej snahe, nedokáže riešiť sám. Niekedy potrebuje pomôcť sebe, niekedy svojim blízkym</desc>
   </programme>
   <programme start="20250207043500 +0100" channel="70-viasat-history" stop="20250207051500 +0100">
     <title>Zakázaná historie VI (10)</title>
     <desc>64% Čarodějnické procesy v Salemu byly sérií slyšení a stíhání lidí obviněných z čarodějnictví v koloniálním státě Massachusetts v letech 1692 a 1693</desc>
   </programme>
-  <programme start="20250207043500 +0100" channel="205-nova-sport-1" stop="20250207070500 +0100">
-    <title>San Jose Sharks - Vancouver Canucks</title>
-    <desc>Přímý přenos hokejového zápasu NHL (v přest.: Sportovní noviny, NHL News)</desc>
+  <programme start="20250207043500 +0100" channel="57-minimax" stop="20250207044000 +0100">
+    <title>Byla jednou jedna… Věc I (54)</title>
+    <desc>(2023)</desc>
   </programme>
-  <programme start="20250207043500 +0100" channel="15402-markiza-krimi" stop="20250207052500 +0100">
-    <title>Policajné prípady</title>
-    <desc>Život so sebou občas prináša komplikované situácie, ktoré človek ani napriek všetkej snahe, nedokáže riešiť sám. Niekedy potrebuje pomôcť sebe, niekedy svojim blízkym</desc>
+  <programme start="20250207043500 +0100" channel="1141-joj-family" stop="20250207051000 +0100">
+    <title>Noviny</title>
+    <desc>Profesionální, nestranné a srozumitelné zpravodajství každý večer</desc>
   </programme>
   <programme start="20250207043500 +0100" channel="15291-joj-sport" stop="20250207061500 +0100">
     <title>FIS Skoky na lyžiach</title>
     <desc>Willingen, Nemecko - zmiešané tímy, veľký mostík HS147
 Záznam z FIS Skoky na lyžiach</desc>
   </programme>
-  <programme start="20250207043500 +0100" channel="1141-joj-family" stop="20250207051000 +0100">
-    <title>Noviny</title>
-    <desc>Profesionální, nestranné a srozumitelné zpravodajství každý večer</desc>
+  <programme start="20250207043500 +0100" channel="17-das-erste" stop="20250207045500 +0100">
+    <title>Brisant</title>
+    <desc />
   </programme>
   <programme start="20250207043500 +0100" channel="704-auto-motor-sport" stop="20250207050500 +0100">
     <title>Reportáž</title>
     <desc>S Land Roverem napříč Afrikou
 auto motor und sport – Reportáže, které vypráví nevšední příběhy ze života automobilů. Pokud jde o automobilovou vášeň</desc>
   </programme>
-  <programme start="20250207043500 +0100" channel="57-minimax" stop="20250207044000 +0100">
-    <title>Byla jednou jedna… Věc I (54)</title>
-    <desc>(2023)</desc>
-  </programme>
-  <programme start="20250207044000 +0100" channel="15611-joj-sport-2" stop="20250207071000 +0100">
-    <title>Krasokorčuľovanie ME 2025</title>
-    <desc>Tallinn, Estónsko - exhibícia
-Záznam krasokorčuliarskych Majstrovstiev Európy 2025</desc>
-  </programme>
-  <programme start="20250207044000 +0100" channel="1162-prima-sk" stop="20250207053000 +0100">
-    <title>Nikdo není dokonalý</title>
-    <desc>Legenda českej populárnej hudby Yvetta Simonová a jej kolega Milan Drobný sú hosťami Jiřího Krampola v ďalšom vydaní programu o ľudskej nedokonalosti. Réžia: V. Nouzák</desc>
+  <programme start="20250207043500 +0100" channel="205-nova-sport-1" stop="20250207070500 +0100">
+    <title>San Jose Sharks - Vancouver Canucks</title>
+    <desc>Přímý přenos hokejového zápasu NHL (v přest.: Sportovní noviny, NHL News)</desc>
   </programme>
   <programme start="20250207044000 +0100" channel="805-ct-:d" stop="20250207051000 +0100">
     <title>Terra musica</title>
     <desc>Vodní zvuky a taneční improvizace, hra na přehrávače nebo kompozice Luigiho Nona pro housle a elektronickou zvukovou projekci v ostravské galerii Plato (2016)</desc>
   </programme>
+  <programme start="20250207044000 +0100" channel="57-minimax" stop="20250207044500 +0100">
+    <title>Byla jednou jedna… Věc I (55)</title>
+    <desc>(2023)</desc>
+  </programme>
   <programme start="20250207044000 +0100" channel="19-orf1" stop="20250207050000 +0100">
     <title>Scrubs - Die Anfänger IV (6)</title>
     <desc>84% Meine Trauer</desc>
-  </programme>
-  <programme start="20250207044000 +0100" channel="144-france24" stop="20250207045600 +0100">
-    <title>LE PARIS DES ARTS</title>
-    <desc>Magazine de musique</desc>
   </programme>
   <programme start="20250207044000 +0100" channel="1320-love-nature" stop="20250207053500 +0100">
     <title>Ochrana divoké zvěře v Malawi (6)</title>
@@ -15081,103 +15072,132 @@ Amanda a Mandy vyzkoušejí vše možné, aby pomohly do oka chycené hyeně. Le
     <desc>Fujarka
 Slovenská hudobno-náučná relácia (2020). (do 12 rokov)</desc>
   </programme>
-  <programme start="20250207044000 +0100" channel="57-minimax" stop="20250207044500 +0100">
-    <title>Byla jednou jedna… Věc I (55)</title>
-    <desc>(2023)</desc>
+  <programme start="20250207044000 +0100" channel="144-france24" stop="20250207045600 +0100">
+    <title>LE PARIS DES ARTS</title>
+    <desc>Magazine de musique</desc>
   </programme>
-  <programme start="20250207044500 +0100" channel="145-france24-en" stop="20250207045100 +0100">
-    <title>FRENCH CONNECTIONS</title>
-    <desc />
+  <programme start="20250207044000 +0100" channel="15611-joj-sport-2" stop="20250207071000 +0100">
+    <title>Krasokorčuľovanie ME 2025</title>
+    <desc>Tallinn, Estónsko - exhibícia
+Záznam krasokorčuliarskych Majstrovstiev Európy 2025</desc>
   </programme>
-  <programme start="20250207044500 +0100" channel="4-prima" stop="20250207050500 +0100">
-    <title>Rozpal to, šéfe!</title>
-    <desc>Víte, co všechno se dá udit? Zdeněk Pohlreich vám poradí ty nejvhodnější suroviny, rozmanité techniky i dokonalé kořenicí směsi. Chybět nebudou</desc>
+  <programme start="20250207044000 +0100" channel="1162-prima-sk" stop="20250207053000 +0100">
+    <title>Nikdo není dokonalý</title>
+    <desc>Legenda českej populárnej hudby Yvetta Simonová a jej kolega Milan Drobný sú hosťami Jiřího Krampola v ďalšom vydaní programu o ľudskej nedokonalosti. Réžia: V. Nouzák</desc>
   </programme>
   <programme start="20250207044500 +0100" channel="718-wau" stop="20250207050500 +0100">
     <title>Prvé oddelenie</title>
     <desc>44% Slovenský kriminálny seriál (2009)</desc>
   </programme>
-  <programme start="20250207044500 +0100" channel="119-tve" stop="20250207052500 +0100">
-    <title>Culturas 2</title>
-    <desc>Magacine diario de Lunes a jueves con noticias culturales de actualidad</desc>
-  </programme>
-  <programme start="20250207044500 +0100" channel="249-viasat-nature" stop="20250207053000 +0100">
-    <title>Veterináři pro neobvyklá domácí zvířata I (2)</title>
-    <desc>Dr. James ošetřuje na klinice agamu pralesní, dr. Shane léčí krajtu kobercovou jménem Red a dr. Catherine má naléhavý případ, protože papoušek aratinga</desc>
-  </programme>
-  <programme start="20250207044500 +0100" channel="1187-cs-history" stop="20250207060000 +0100">
-    <title>Signály z neznáma (3)</title>
-    <desc>62% Kanadský dokumentární seriál (2020)</desc>
-  </programme>
-  <programme start="20250207044500 +0100" channel="1196-prima-krimi" stop="20250207060000 +0100">
-    <title>Pobřežní stráž IV (2)</title>
-    <desc>48% Německý krimiseriál (2020)</desc>
-  </programme>
-  <programme start="20250207044500 +0100" channel="57-minimax" stop="20250207050000 +0100">
-    <title>Byla jednou jedna… Věc I (56)</title>
-    <desc>(2023)</desc>
-  </programme>
-  <programme start="20250207044500 +0100" channel="190-bbc-world-news" stop="20250207050000 +0100">
-    <title>Sportsday</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism</desc>
+  <programme start="20250207044500 +0100" channel="4-prima" stop="20250207050500 +0100">
+    <title>Rozpal to, šéfe!</title>
+    <desc>Víte, co všechno se dá udit? Zdeněk Pohlreich vám poradí ty nejvhodnější suroviny, rozmanité techniky i dokonalé kořenicí směsi. Chybět nebudou</desc>
   </programme>
   <programme start="20250207044500 +0100" channel="683-tv-dajto" stop="20250207050000 +0100">
     <title>Bernieho dobrodružstvá</title>
     <desc>74% Animovaný seriál Francúzsko (2022)</desc>
   </programme>
+  <programme start="20250207044500 +0100" channel="145-france24-en" stop="20250207045100 +0100">
+    <title>FRENCH CONNECTIONS</title>
+    <desc />
+  </programme>
+  <programme start="20250207044500 +0100" channel="57-minimax" stop="20250207050000 +0100">
+    <title>Byla jednou jedna… Věc I (56)</title>
+    <desc>(2023)</desc>
+  </programme>
+  <programme start="20250207044500 +0100" channel="1196-prima-krimi" stop="20250207060000 +0100">
+    <title>Pobřežní stráž IV (2)</title>
+    <desc>48% Německý krimiseriál (2020)</desc>
+  </programme>
+  <programme start="20250207044500 +0100" channel="1187-cs-history" stop="20250207060000 +0100">
+    <title>Signály z neznáma (3)</title>
+    <desc>62% Kanadský dokumentární seriál (2020)</desc>
+  </programme>
   <programme start="20250207044500 +0100" channel="1338-cnn-prima-news" stop="20250207055500 +0100">
     <title>360°</title>
     <desc>Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky</desc>
   </programme>
+  <programme start="20250207044500 +0100" channel="249-viasat-nature" stop="20250207053000 +0100">
+    <title>Veterináři pro neobvyklá domácí zvířata I (2)</title>
+    <desc>Dr. James ošetřuje na klinice agamu pralesní, dr. Shane léčí krajtu kobercovou jménem Red a dr. Catherine má naléhavý případ, protože papoušek aratinga</desc>
+  </programme>
+  <programme start="20250207044500 +0100" channel="190-bbc-world-news" stop="20250207050000 +0100">
+    <title>Sportsday</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism</desc>
+  </programme>
   <programme start="20250207044500 +0100" channel="15292-prima-show" stop="20250207052000 +0100">
     <title>Neuvěřitelné dorty III (10)</title>
     <desc>Mistři cukráři vytváří neuvěřitelné dorty, které svou propracovaností mnohdy připomínají umělecká díla. Britská reality show (2018)</desc>
+  </programme>
+  <programme start="20250207044500 +0100" channel="119-tve" stop="20250207052500 +0100">
+    <title>Culturas 2</title>
+    <desc>Magacine diario de Lunes a jueves con noticias culturales de actualidad</desc>
   </programme>
   <programme start="20250207044900 +0100" channel="106-national-geographic-wild" stop="20250207053700 +0100">
     <title>Nejnebezpečnější zvířata světa I (1)</title>
     <desc>Severní Amerika
 USA 2007 Severní Amerika je domovem řady nebezpečných tvorů, kteří se vyskytují v pouštích, přímořských vodních cestách a hustých lesích</desc>
   </programme>
-  <programme start="20250207045000 +0100" channel="1125-nova-international" stop="20250207053500 +0100">
-    <title>Áčko</title>
-    <desc>Uvádí Šárka Kubelková (1999)</desc>
+  <programme start="20250207045000 +0100" channel="2-ct1" stop="20250207051500 +0100">
+    <title>Hobby naší doby</title>
+    <desc>Jiřina Bohdalová v půlhodince inspirací a zajímavostí pro volný čas</desc>
   </programme>
   <programme start="20250207045000 +0100" channel="73-ct-sport" stop="20250207054500 +0100">
     <title>Cyklokros: MS Francie</title>
     <desc>MS v cyklokrosu 2025
 Záznam závodu juniorek na světovém šampionátu v Liévinu</desc>
   </programme>
-  <programme start="20250207045000 +0100" channel="1512-rtvs-sport" stop="20250207050000 +0100">
-    <title>Góly - body - sekundy</title>
-    <desc>Športové spravodajstvo. Slovenská republika (2025)</desc>
+  <programme start="20250207045000 +0100" channel="3-ct2" stop="20250207051500 +0100">
+    <title>Babylon</title>
+    <desc>Španělka Elena Buixaderas i talentovaná Tereza Niku v dokumentárním cyklu s podtitulem Kde žiju a proč</desc>
   </programme>
-  <programme start="20250207045000 +0100" channel="220-prima-cool" stop="20250207060000 +0100">
-    <title>Odkaz budoucnosti aneb Podivuhodná dobrodružství rodiny Smolíkovy (13)</title>
-    <desc>86% Kultovní maďarský animovaný seriál (1969)</desc>
+  <programme start="20250207045000 +0100" channel="1125-nova-international" stop="20250207053500 +0100">
+    <title>Áčko</title>
+    <desc>Uvádí Šárka Kubelková (1999)</desc>
   </programme>
   <programme start="20250207045000 +0100" channel="1513-prima-star" stop="20250207053500 +0100">
     <title>Lásce navzdory (29)</title>
     <desc>Turecká telenovela (2015)</desc>
   </programme>
-  <programme start="20250207045000 +0100" channel="3-ct2" stop="20250207051500 +0100">
-    <title>Babylon</title>
-    <desc>Španělka Elena Buixaderas i talentovaná Tereza Niku v dokumentárním cyklu s podtitulem Kde žiju a proč</desc>
-  </programme>
-  <programme start="20250207045000 +0100" channel="2-ct1" stop="20250207051500 +0100">
-    <title>Hobby naší doby</title>
-    <desc>Jiřina Bohdalová v půlhodince inspirací a zajímavostí pro volný čas</desc>
-  </programme>
   <programme start="20250207045000 +0100" channel="82-amc" stop="20250207050000 +0100">
     <title>Ultimate Countdown: Top Ten I (1)</title>
     <desc>(Ultimate Countdown: Top Ten I)</desc>
+  </programme>
+  <programme start="20250207045000 +0100" channel="220-prima-cool" stop="20250207060000 +0100">
+    <title>Odkaz budoucnosti aneb Podivuhodná dobrodružství rodiny Smolíkovy (13)</title>
+    <desc>86% Kultovní maďarský animovaný seriál (1969)</desc>
+  </programme>
+  <programme start="20250207045000 +0100" channel="1512-rtvs-sport" stop="20250207050000 +0100">
+    <title>Góly - body - sekundy</title>
+    <desc>Športové spravodajstvo. Slovenská republika (2025)</desc>
   </programme>
   <programme start="20250207045100 +0100" channel="145-france24-en" stop="20250207050000 +0100">
     <title>THE OBSERVERS</title>
     <desc />
   </programme>
+  <programme start="20250207045500 +0100" channel="228-disney-channel" stop="20250207051500 +0100">
+    <title>Anna mezi obojživelníky (21)</title>
+    <desc>83% Plentrovi se připravují na cestu a Anna se rozhodne zabezpečit farmu. Sprig po cestě do Newtopie touží po dobrodružství, ale Hop Popova silniční pravidla</desc>
+  </programme>
   <programme start="20250207045500 +0100" channel="20-orf2" stop="20250207055000 +0100">
     <title>Studio 2</title>
     <desc />
+  </programme>
+  <programme start="20250207045500 +0100" channel="708-prima-zoom" stop="20250207052000 +0100">
+    <title>Meganáklad (3)</title>
+    <desc>Mistři jeřábníci se nezaleknou ničeho a se svými stroji si poradí s každým břemenem. Pomáhají při přemisťování, stavění i likvidaci, přičemž Kanadský dokumentární seriál (2017)</desc>
+  </programme>
+  <programme start="20250207045500 +0100" channel="1408-rik-tv" stop="20250207051000 +0100">
+    <title>Bob staviteľ I (45)</title>
+    <desc>Bob a partia si užijú veľa zábavy pri spoločnej práci na dokončovaní zložitých úloh</desc>
+  </programme>
+  <programme start="20250207045500 +0100" channel="1324-rtvs-24" stop="20250207052000 +0100">
+    <title>Správy :24</title>
+    <desc>Aktuálne spravodajstvo z domova a zo sveta. Slovenská republika (2025)</desc>
+  </programme>
+  <programme start="20250207045500 +0100" channel="33-joj" stop="20250207054500 +0100">
+    <title>Noviny TV JOJ</title>
+    <desc>Spravodajská relácia</desc>
   </programme>
   <programme start="20250207045500 +0100" channel="1020-krimi-barrandov" stop="20250207060500 +0100">
     <title>Na plac!</title>
@@ -15186,26 +15206,6 @@ Záznam závodu juniorek na světovém šampionátu v Liévinu</desc>
   <programme start="20250207045500 +0100" channel="707-nova-fun" stop="20250207052000 +0100">
     <title>Ženatý se závazky (205)</title>
     <desc>81% Americký seriál (1987-95)</desc>
-  </programme>
-  <programme start="20250207045500 +0100" channel="33-joj" stop="20250207054500 +0100">
-    <title>Noviny TV JOJ</title>
-    <desc>Spravodajská relácia</desc>
-  </programme>
-  <programme start="20250207045500 +0100" channel="228-disney-channel" stop="20250207051500 +0100">
-    <title>Anna mezi obojživelníky (21)</title>
-    <desc>83% Plentrovi se připravují na cestu a Anna se rozhodne zabezpečit farmu. Sprig po cestě do Newtopie touží po dobrodružství, ale Hop Popova silniční pravidla</desc>
-  </programme>
-  <programme start="20250207045500 +0100" channel="1324-rtvs-24" stop="20250207052000 +0100">
-    <title>Správy :24</title>
-    <desc>Aktuálne spravodajstvo z domova a zo sveta. Slovenská republika (2025)</desc>
-  </programme>
-  <programme start="20250207045500 +0100" channel="1408-rik-tv" stop="20250207051000 +0100">
-    <title>Bob staviteľ I (45)</title>
-    <desc>Bob a partia si užijú veľa zábavy pri spoločnej práci na dokončovaní zložitých úloh</desc>
-  </programme>
-  <programme start="20250207045500 +0100" channel="708-prima-zoom" stop="20250207052000 +0100">
-    <title>Meganáklad (3)</title>
-    <desc>Mistři jeřábníci se nezaleknou ničeho a se svými stroji si poradí s každým břemenem. Pomáhají při přemisťování, stavění i likvidaci, přičemž Kanadský dokumentární seriál (2017)</desc>
   </programme>
   <programme start="20250207045500 +0100" channel="17-das-erste" stop="20250207050000 +0100">
     <title>Tagesschau</title>
